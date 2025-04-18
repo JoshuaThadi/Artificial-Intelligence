@@ -44,7 +44,23 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Yahoo Finance (via `yfinance`)
   - More coming soon (weather, news, geolocation, etc.)
 
+### 👾 Codes for AI-chat bots
 
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Openai.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Openai.py-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Openai.py GitHub Badge"></a>
 
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/Intel%20Bot" target="_blank">
+  <img src="https://img.shields.io/badge/Github-Intel%20Bot-7B68EE?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Intel Bot GitHub Badge"></a>
 
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Claude.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Claude.py-FA8072?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Claude.py GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Ollama.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ollama.py-ECEFF4?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Ollama.py GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/gemini.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gemini.py-DDA0DD?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="gemini.py GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/Trent%20Bot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Trent%20Bot-CD5C5C?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Trent Bot GitHub Badge"></a>
 
