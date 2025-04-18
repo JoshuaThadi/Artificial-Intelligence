@@ -32,19 +32,10 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Fetch stock prices, current time, weather, and more.
   - Integrated with large language models (LLMs) like Gemini, GPT, etc.
   - Support for custom-trained models and fine-tuned logic.
+    ### 👾 Codes for AI-chat bots
 
-- 🎙️ **AI Voice Assistants**
-  - Voice command handling using speech-to-text (STT).
-  - AI-powered responses with text-to-speech (TTS) output.
-  - Modular design for different platforms (PC, web, mobile).
-
-- 🌐 **API Integrations**
-  - Google Gemini API
-  - World Time API
-  - Yahoo Finance (via `yfinance`)
-  - More coming soon (weather, news, geolocation, etc.)
-
-### 👾 Codes for AI-chat bots
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-DeepSeek%20Bot-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="DeepSeek Bot GitHub Badge"></a>
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Openai.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Openai.py-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Openai.py GitHub Badge"></a>
@@ -63,4 +54,17 @@ The AI Hub can be utilized for various practical use cases, including the develo
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/Trent%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Trent%20Bot-CD5C5C?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Trent Bot GitHub Badge"></a>
+
+- 🎙️ **AI Voice Assistants**
+  - Voice command handling using speech-to-text (STT).
+  - AI-powered responses with text-to-speech (TTS) output.
+  - Modular design for different platforms (PC, web, mobile).
+
+- 🌐 **API Integrations**
+  - Google Gemini API
+  - World Time API
+  - Yahoo Finance (via `yfinance`)
+  - More coming soon (weather, news, geolocation, etc.)
+
+
 
