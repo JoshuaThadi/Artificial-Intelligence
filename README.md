@@ -59,12 +59,27 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Voice command handling using speech-to-text (STT).
   - AI-powered responses with text-to-speech (TTS) output.
   - Modular design for different platforms (PC, web, mobile).
+    ### 🎙️ Codes for AI voice assistant
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/JOne" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-JOne.py%20-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="JOne GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20Voice%20Assistant/Jarvis/Jarvis.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Jarvis.py%20-F0E68C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Jarvis.py GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20Voice%20Assistant/Jarvis/Jarvis2.0.py" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Jarvis2.0.py%20-FFC72C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Jarvis2.0.py GitHub Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/Siri%20Voice%20Assistant" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Siri.py-3B4252?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Siri Voice Assistant GitHub Badge"></a>
+    
+
+    
 
 - 🌐 **API Integrations**
   - Google Gemini API
   - World Time API
   - Yahoo Finance (via `yfinance`)
   - More coming soon (weather, news, geolocation, etc.)
-
 
 
