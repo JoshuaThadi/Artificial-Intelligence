@@ -12,6 +12,37 @@ The project leverages various powerful technologies such as Python, along with l
 ### Use Cases
 The AI Hub can be utilized for various practical use cases, including the development of AI chat assistants for customer support, education, or general use. It also powers smart voice interfaces that can respond to user queries or control devices via voice commands. Data science models are available for tasks like analysis, prediction, and classification. Moreover, the repository offers real-time AI applications, such as chatbots that fetch current data from APIs, as well as providing a great resource for research and learning demos on AI and machine learning topics.
 
+<div>
+ <p>
+  
+ </p>
+</div>
+
+# AI Bots & Voice Assistants Hub
+<a href="https://deepseek-bot.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
+</a>
+
+
+**AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
+
+### 🔥 Features
+
+- 💬 **Chatbots with Real-Time API Access**
+  - Fetch stock prices, current time, weather, and more.
+  - Integrated with large language models (LLMs) like Gemini, GPT, etc.
+  - Support for custom-trained models and fine-tuned logic.
+
+- 🎙️ **AI Voice Assistants**
+  - Voice command handling using speech-to-text (STT).
+  - AI-powered responses with text-to-speech (TTS) output.
+  - Modular design for different platforms (PC, web, mobile).
+
+- 🌐 **API Integrations**
+  - Google Gemini API
+  - World Time API
+  - Yahoo Finance (via `yfinance`)
+  - More coming soon (weather, news, geolocation, etc.)
 
 
 
