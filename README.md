@@ -129,6 +129,20 @@ The AI Hub can be utilized for various practical use cases, including the develo
 <a href="https://www.blackbox.ai/" target="_blank">
   <img src="https://static.thenounproject.com/png/300128-200.png" alt="Blackbox AI" width="50" height="50"></a>
 
+<a href="https://www.cursor.com/">
+  <img src="https://custom.typingmind.com/assets/models/cursor.png" alt="Cursor Icon" width="50" height="50" /></a>
 
+<a href="https://zed.dev/" target="_blank">
+  <img src="https://zed.dev/_next/static/media/logo_icon.d67dc948.webp" alt="Zed Icon" width="50" height="50"/></a>
 
+<a href="https://windsurf.com/editor" target="_blank">
+  <img src="https://ph-files.imgix.net/cc02a582-1cb1-43d5-a5f3-9fca95372576.png?auto=format" alt="Windsurf Editor Icon" width="50" height="50" /></a>
 
+<a href="https://bolt.new/" target="_blank">
+  <img src="https://images.prismic.io/sacra/Z37NF5bqstJ99MG0_bolt-new-logo.jpg?auto=format,compress" alt="Bolt New Icon" width="50" height="50"  /></a>
+
+<a href="https://replit.com/" target="_blank">
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="50" height="50" /></a>
+
+<a href="https://v0.dev/" target="_blank">
+  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="50" height="50" /></a>
