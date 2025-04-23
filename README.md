@@ -36,6 +36,9 @@ The project leverages various powerful technologies such as Python, along with l
 <a href="https://ollama.com/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP8OyDZPXzErYUs_ATzEzRDMigkJB_iEltA&s" width="50" height="50" alt="Ollama AI Logo" /></a>
 
+<a href="https://chat.deepseek.com/">
+  <img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-03.png" width="50" height="50" alt="Ollama AI Logo" /></a>
+
 
 
 ### Use Cases
