@@ -9,6 +9,20 @@ The repository contains a variety of powerful features, such as AI chatbots powe
 ### Technologies Used
 The project leverages various powerful technologies such as Python, along with libraries like NumPy, Pandas, and Scikit-Learn for data manipulation and machine learning. For deep learning tasks, TensorFlow and PyTorch are used extensively. NLP tasks are powered by NLTK, SpaCy, and Transformers (from Hugging Face). Speech-to-text (STT) and text-to-speech (TTS) functionalities are enabled by tools like Vosk, gTTS, and pyttsx3. Additionally, the project integrates with APIs such as Google Gemini, OpenAI GPT, and other REST APIs to offer a wide range of functionalities.
 
+<a href="https://openai.com/">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-openai-icon-download-in-svg-png-gif-file-formats--gym-toolkit-algorithm-reinforcement-ai-artificial-intelligence-color-pack-science-technology-icons-1290809.png?f=webp" width="50" height="50" alt="OpenAI Logo" /></a>
+
+  <a href="https://claude.ai/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" width="50" height="50" alt="Claude AI Logo" /></a>
+
+<a href="https://claude.ai/">
+  <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Claude/claude-logo.png" width="50" height="50" alt="Claude AI Logo" /></a>
+
+<a href="https://gemini.google.com/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP8OyDZPXzErYUs_ATzEzRDMigkJB_iEltA&s" width="50" height="50" alt="Gemini AI Logo" /></a>
+
+
+
 ### Use Cases
 The AI Hub can be utilized for various practical use cases, including the development of AI chat assistants for customer support, education, or general use. It also powers smart voice interfaces that can respond to user queries or control devices via voice commands. Data science models are available for tasks like analysis, prediction, and classification. Moreover, the repository offers real-time AI applications, such as chatbots that fetch current data from APIs, as well as providing a great resource for research and learning demos on AI and machine learning topics.
 
@@ -17,6 +31,8 @@ The AI Hub can be utilized for various practical use cases, including the develo
   
  </p>
 </div>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,netlify,sklearn,bash,vscode" /><br>
 
 
 # AI Bots & Voice Assistants Hub
