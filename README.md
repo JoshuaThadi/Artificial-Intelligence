@@ -116,7 +116,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Ollama API
   - deepseek API
 
-### 🚀 AI tools for productivity and every other thing
+### 🚀 AI tools and APIs
 <a href="https://livekit.io/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHp8JqA5gPdK8wyCFlA-UWNfiXBonQCins6acrH77ubJEUKkVqynJ697xH8F-LfFCgaA&usqp=CAU" width="50" height="50" alt="Icon" /></a>
 
