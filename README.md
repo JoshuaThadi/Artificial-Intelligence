@@ -53,13 +53,13 @@ The AI Hub can be utilized for various practical use cases, including the develo
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,netlify,sklearn,bash,vscode" /><br>
 
 
-# AI Bots & Voice Assistants Hub
+# AI Bots & Voice Assistants projects
 <a href="https://deepseek-bot.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
 </a>
 
 
-**AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
+**AI Bots & Voice Assistants projects** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
 
 ### 🔥 Features
 
