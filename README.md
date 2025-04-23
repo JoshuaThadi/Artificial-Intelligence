@@ -59,7 +59,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
 </a>
 
 
-**AI Bots & Voice Assistants projects** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
+**AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
 
 ### 🔥 Features
 
