@@ -6,6 +6,19 @@ The Artificial Intelligence Hub is an all-encompassing repository that brings to
 ### Features
 The repository contains a variety of powerful features, such as AI chatbots powered by large language models like Gemini and GPT. It also includes voice assistants that process speech-to-text (STT) and generate responses through text-to-speech (TTS) in real time. For machine learning enthusiasts, it covers a range of ML algorithms, including regression, classification, and clustering. The deep learning section provides models like Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Generative Adversarial Networks (GANs). In addition, there are NLP pipelines for tasks like tokenization, translation, and sentiment analysis, and integrations with real-time APIs like time, weather, and finance.
 
+<a href="https://www.ibm.com/think/topics/convolutional-neural-networks">
+  <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="50" height="50" alt="IBM Logo" /></a>
+
+<a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="50" height="50" alt="Stanford Logo" /></a>
+
+<a href="https://www.ibm.com/think/topics/recurrent-neural-networks">
+  <img src="https://images.icon-icons.com/2699/PNG/512/ibm_cloud_logo_icon_169019.png" width="50" height="50" alt="IBM Logo" /></a>
+
+<a href="https://aws.amazon.com/what-is/gan/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerGEWZxlTG4jra5dMGs4mUz8DWvZmuIEkoQ&s" width="50" height="50" alt="IBM Logo" /></a>
+
+
 ### Technologies Used
 The project leverages various powerful technologies such as Python, along with libraries like NumPy, Pandas, and Scikit-Learn for data manipulation and machine learning. For deep learning tasks, TensorFlow and PyTorch are used extensively. NLP tasks are powered by NLTK, SpaCy, and Transformers (from Hugging Face). Speech-to-text (STT) and text-to-speech (TTS) functionalities are enabled by tools like Vosk, gTTS, and pyttsx3. Additionally, the project integrates with APIs such as Google Gemini, OpenAI GPT, and other REST APIs to offer a wide range of functionalities.
 
