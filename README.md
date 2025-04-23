@@ -95,7 +95,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - AI-powered responses with text-to-speech (TTS) output.
   - Modular design for different platforms (PC, web, mobile).
     #### 🎙️ Codes for AI voice assistant
-
+    
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/JOne" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-JOne.py%20-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="JOne GitHub Badge"></a>
 
@@ -109,12 +109,26 @@ The AI Hub can be utilized for various practical use cases, including the develo
   <img src="https://img.shields.io/badge/GitHub-Siri.py-3B4252?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Siri Voice Assistant GitHub Badge"></a>
     
 
-    
-
 - 🌐 **API Integrations**
   - Google Gemini API
-  - World Time API
-  - Yahoo Finance (via `yfinance`)
-  - More coming soon (weather, news, geolocation, etc.)
+  - Openai API
+  - claude API
+  - Ollama API
+  - deepseek API
+
+### 🚀 AI tools for productivity and every other thing
+<a href="https://livekit.io/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHp8JqA5gPdK8wyCFlA-UWNfiXBonQCins6acrH77ubJEUKkVqynJ697xH8F-LfFCgaA&usqp=CAU" width="50" height="50" alt="Icon" /></a>
+
+<a href="https://groq.com/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVsO5kFrri_uqZdlB6mACC2bdyyy6D0bYag&s" width="50" height="50" alt="Icon" /></a>
+
+<a href="https://vapi.ai/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzuWSxupu8H8k9WaCtWrHtq-esNrFr_HgzzqHwtLcB58ll70H9BoSICa8FQeli47_3k&usqp=CAU" width="50" height="50" alt="Icon"></a>
+
+<a href="https://www.blackbox.ai/" target="_blank">
+  <img src="https://static.thenounproject.com/png/300128-200.png" alt="Blackbox AI" width="50" height="50"></a>
+
+
 
 
