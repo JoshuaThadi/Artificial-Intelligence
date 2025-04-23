@@ -13,13 +13,13 @@ The project leverages various powerful technologies such as Python, along with l
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-openai-icon-download-in-svg-png-gif-file-formats--gym-toolkit-algorithm-reinforcement-ai-artificial-intelligence-color-pack-science-technology-icons-1290809.png?f=webp" width="50" height="50" alt="OpenAI Logo" /></a>
 
   <a href="https://gemini.google.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" width="50" height="50" alt="Claude AI Logo" /></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" width="50" height="50" alt="Gemini AI Logo" /></a>
 
 <a href="https://claude.ai/">
   <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Claude/claude-logo.png" width="50" height="50" alt="Claude AI Logo" /></a>
 
 <a href="https://ollama.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP8OyDZPXzErYUs_ATzEzRDMigkJB_iEltA&s" width="50" height="50" alt="Gemini AI Logo" /></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP8OyDZPXzErYUs_ATzEzRDMigkJB_iEltA&s" width="50" height="50" alt="Ollama AI Logo" /></a>
 
 
 
