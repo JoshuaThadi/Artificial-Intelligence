@@ -18,6 +18,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
  </p>
 </div>
 
+
 # AI Bots & Voice Assistants Hub
 <a href="https://deepseek-bot.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
@@ -32,7 +33,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Fetch stock prices, current time, weather, and more.
   - Integrated with large language models (LLMs) like Gemini, GPT, etc.
   - Support for custom-trained models and fine-tuned logic.
-    ### 👾 Codes for AI-chat bots
+    #### 👾 Codes for AI-chat bots
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-DeepSeek%20Bot-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="DeepSeek Bot GitHub Badge"></a>
@@ -59,7 +60,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Voice command handling using speech-to-text (STT).
   - AI-powered responses with text-to-speech (TTS) output.
   - Modular design for different platforms (PC, web, mobile).
-    ### 🎙️ Codes for AI voice assistant
+    #### 🎙️ Codes for AI voice assistant
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/JOne" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-JOne.py%20-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="JOne GitHub Badge"></a>
