@@ -58,7 +58,7 @@ class JOneAIVoiceAssistant:
 
         ollama_stream = ollama.chat(
             model="deepseek-r1:5b",
-            messages=self.full_transcript,  # ✅ FIXED: No parentheses here
+            messages=self.full_transcript, 
             stream=True,
         )
 
@@ -92,6 +92,5 @@ class JOneAIVoiceAssistant:
         self.full_transcript.append({"role": "assistant", "content": full_text})
         self.start_transcription()
 
-# ✅ FIXED: Correctly calling the method
 ai_voice_agent = JOneAIVoiceAssistant()
 ai_voice_agent.start_transcription()
