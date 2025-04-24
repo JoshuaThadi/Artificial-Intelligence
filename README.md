@@ -148,3 +148,11 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
 
 <a href="https://v0.dev/" target="_blank">
   <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="50" height="50" /></a>
+
+
+<div align="center">
+ 
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
