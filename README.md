@@ -1,6 +1,6 @@
  <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png?raw=true" alt="Banner Image" width="100%">
 
-# ⚙️ Artificial Intelligence (All In One)
+# ⚙️ Artificial Intelligence 
 The Artificial Intelligence Hub is an all-encompassing repository that brings together a wide array of AI technologies. It includes intelligent chatbots, AI-powered voice assistants, machine learning models, deep learning architectures, and natural language processing (NLP) applications. It showcases trained models and inference demos, alongside open-source utilities for building and experimenting with AI systems.
 
 ### Features
