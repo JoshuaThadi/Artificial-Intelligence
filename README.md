@@ -3,6 +3,39 @@
 # ⚙️ Artificial Intelligence 
 The Artificial Intelligence Hub is an all-encompassing repository that brings together a wide array of AI technologies. It includes intelligent chatbots, AI-powered voice assistants, machine learning models, deep learning architectures, and natural language processing (NLP) applications. It showcases trained models and inference demos, alongside open-source utilities for building and experimenting with AI systems.
 
+### 🚀 AI tools and APIs
+AI tools and APIs are revolutionizing industries by enabling developers to integrate powerful artificial intelligence capabilities into their applications. With easy integration through APIs, companies can leverage cutting-edge AI technology without extensive expertise.
+
+<a href="https://livekit.io/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHp8JqA5gPdK8wyCFlA-UWNfiXBonQCins6acrH77ubJEUKkVqynJ697xH8F-LfFCgaA&usqp=CAU" width="50" height="50" alt="Icon" /></a>
+
+<a href="https://groq.com/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVsO5kFrri_uqZdlB6mACC2bdyyy6D0bYag&s" width="50" height="50" alt="Icon" /></a>
+
+<a href="https://vapi.ai/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzuWSxupu8H8k9WaCtWrHtq-esNrFr_HgzzqHwtLcB58ll70H9BoSICa8FQeli47_3k&usqp=CAU" width="50" height="50" alt="Icon"></a>
+
+<a href="https://www.blackbox.ai/" target="_blank">
+  <img src="https://static.thenounproject.com/png/300128-200.png" alt="Blackbox AI" width="50" height="50"></a>
+
+<a href="https://www.cursor.com/">
+  <img src="https://custom.typingmind.com/assets/models/cursor.png" alt="Cursor Icon" width="50" height="50" /></a>
+
+<a href="https://zed.dev/" target="_blank">
+  <img src="https://zed.dev/_next/static/media/logo_icon.d67dc948.webp" alt="Zed Icon" width="50" height="50"/></a>
+
+<a href="https://windsurf.com/editor" target="_blank">
+  <img src="https://ph-files.imgix.net/cc02a582-1cb1-43d5-a5f3-9fca95372576.png?auto=format" alt="Windsurf Editor Icon" width="50" height="50" /></a>
+
+<a href="https://bolt.new/" target="_blank">
+  <img src="https://images.prismic.io/sacra/Z37NF5bqstJ99MG0_bolt-new-logo.jpg?auto=format,compress" alt="Bolt New Icon" width="50" height="50"  /></a>
+
+<a href="https://replit.com/" target="_blank">
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="50" height="50" /></a>
+
+<a href="https://v0.dev/" target="_blank">
+  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="50" height="50" /></a>
+
 ### Features
 The repository contains a variety of powerful features, such as AI chatbots powered by large language models like Gemini and GPT. It also includes voice assistants that process speech-to-text (STT) and generate responses through text-to-speech (TTS) in real time. For machine learning enthusiasts, it covers a range of ML algorithms, including regression, classification, and clustering. The deep learning section provides models like Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Generative Adversarial Networks (GANs). In addition, there are NLP pipelines for tasks like tokenization, translation, and sentiment analysis, and integrations with real-time APIs like time, weather, and finance.
 
@@ -116,38 +149,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Ollama API
   - deepseek API
 
-### 🚀 AI tools and APIs
-AI tools and APIs are revolutionizing industries by enabling developers to integrate powerful artificial intelligence capabilities into their applications. With easy integration through APIs, companies can leverage cutting-edge AI technology without extensive expertise.
 
-<a href="https://livekit.io/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHp8JqA5gPdK8wyCFlA-UWNfiXBonQCins6acrH77ubJEUKkVqynJ697xH8F-LfFCgaA&usqp=CAU" width="50" height="50" alt="Icon" /></a>
-
-<a href="https://groq.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVsO5kFrri_uqZdlB6mACC2bdyyy6D0bYag&s" width="50" height="50" alt="Icon" /></a>
-
-<a href="https://vapi.ai/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzuWSxupu8H8k9WaCtWrHtq-esNrFr_HgzzqHwtLcB58ll70H9BoSICa8FQeli47_3k&usqp=CAU" width="50" height="50" alt="Icon"></a>
-
-<a href="https://www.blackbox.ai/" target="_blank">
-  <img src="https://static.thenounproject.com/png/300128-200.png" alt="Blackbox AI" width="50" height="50"></a>
-
-<a href="https://www.cursor.com/">
-  <img src="https://custom.typingmind.com/assets/models/cursor.png" alt="Cursor Icon" width="50" height="50" /></a>
-
-<a href="https://zed.dev/" target="_blank">
-  <img src="https://zed.dev/_next/static/media/logo_icon.d67dc948.webp" alt="Zed Icon" width="50" height="50"/></a>
-
-<a href="https://windsurf.com/editor" target="_blank">
-  <img src="https://ph-files.imgix.net/cc02a582-1cb1-43d5-a5f3-9fca95372576.png?auto=format" alt="Windsurf Editor Icon" width="50" height="50" /></a>
-
-<a href="https://bolt.new/" target="_blank">
-  <img src="https://images.prismic.io/sacra/Z37NF5bqstJ99MG0_bolt-new-logo.jpg?auto=format,compress" alt="Bolt New Icon" width="50" height="50"  /></a>
-
-<a href="https://replit.com/" target="_blank">
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="50" height="50" /></a>
-
-<a href="https://v0.dev/" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="50" height="50" /></a>
 
 
 <div align="center">
