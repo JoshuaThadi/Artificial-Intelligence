@@ -102,25 +102,27 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Support for custom-trained models and fine-tuned logic.
     #### 👾 Codes for AI-chat bots
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
+
+
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-DeepSeek%20Bot-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="DeepSeek Bot GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Openai.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Net%20Bots/Openai.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Openai.py-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Openai.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/Intel%20Bot" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Intel%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/Github-Intel%20Bot-7B68EE?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Intel Bot GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Claude.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Net%20Bots/Claude.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Claude.py-FA8072?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Claude.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/Ollama.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Net%20Bots/Ollama.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Ollama.py-ECEFF4?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Ollama.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20ChatBot/Net%20Bots/gemini.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Net%20Bots/gemini.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-gemini.py-DDA0DD?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="gemini.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20ChatBot/Trent%20Bot" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/Trent%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Trent%20Bot-CD5C5C?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Trent Bot GitHub Badge"></a>
 
 - 🎙️ **AI Voice Assistants**
@@ -129,16 +131,16 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Modular design for different platforms (PC, web, mobile).
     #### 🎙️ Codes for AI voice assistant
     
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/JOne" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20Voice%20Assistant/JOne" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-JOne.py%20-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="JOne GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20Voice%20Assistant/Jarvis/Jarvis.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Voice%20Assistant/Jarvis/Jarvis.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Jarvis.py%20-F0E68C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Jarvis.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI%20Voice%20Assistant/Jarvis/Jarvis2.0.py" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Voice%20Assistant/Jarvis/Jarvis2.0.py" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Jarvis2.0.py%20-FFC72C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Jarvis2.0.py GitHub Badge"></a>
 
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/AI%20Voice%20Assistant/Siri%20Voice%20Assistant" target="_blank">
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20Voice%20Assistant/Siri%20Voice%20Assistant" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Siri.py-3B4252?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Siri Voice Assistant GitHub Badge"></a>
     
 
