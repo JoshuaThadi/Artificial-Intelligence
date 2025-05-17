@@ -236,6 +236,7 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - Ollama API
   - deepseek API
 
+---
 
 <img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/deepseek-botimg.png">
 <p>
