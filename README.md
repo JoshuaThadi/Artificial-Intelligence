@@ -19,23 +19,23 @@
 5] <b>Robotics</b> -	Creating intelligent machines that can interact with the physical environment<br>
 6] <b>Expert Systems</b> -	Mimic decision-making ability of a human expert<br>
 
-<a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank">
-  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-9acd32?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
-
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
   <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-blueviolet?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a>
 
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a>
-
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-orange?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP Badge"></a>
+  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-orange?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a>
 
 <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
   <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-00bfff?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a>
 
+<a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank">
+  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-9acd32?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
+
 <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank">
   <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-green?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a>
+
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a>
 
 
 
@@ -63,20 +63,17 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+<a href="https://huggingface.co/transformers/" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"></a>
+
+
 
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-<a href="https://huggingface.co/transformers/" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"></a>
-
 
 <a href="https://ai.google/" target="_blank">
   <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
@@ -86,6 +83,12 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
 <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AI"></a>
+
+  <a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+
 
 
 <h3>📌 Applications of AI </h3>
@@ -121,12 +124,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>AI-driven Drone Navigation & Delivery</b>: Empowers autonomous drones to perform complex navigation for real-world deliveries.<br>
 • <b>Predictive Maintenance using Digital Twins</b>: Simulates vehicle components digitally to detect and prevent mechanical issues early.<br>
 
-<a href="https://ieeexplore.ieee.org/document/9318665" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Traffic%20Control-Dynamic%20Signals-9b59b6?style=for-the-badge&logo=traffic-light&logoColor=white" alt="Traffic AI"></a>
 <a href="https://skydio.com/" target="_blank">
   <img src="https://img.shields.io/badge/Drone%20Navigation%20AI-Autonomous%20Delivery-16a085?style=for-the-badge&logo=drone&logoColor=white" alt="Drone AI"></a>
 <a href="https://www.ibm.com/topics/digital-twin" target="_blank">
   <img src="https://img.shields.io/badge/Predictive%20Maintenance-Digital%20Twins-2980b9?style=for-the-badge&logo=ibm&logoColor=white" alt="Digital Twins"></a>
+ 
+<a href="https://ieeexplore.ieee.org/document/9318665" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Traffic%20Control-Dynamic%20Signals-9b59b6?style=for-the-badge&logo=traffic-light&logoColor=white" alt="Traffic AI"></a>
 
 <br>
 4] <b>Customer Service</b> →<br>
