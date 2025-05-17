@@ -5,6 +5,11 @@
 
 <h4>Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. AI systems are designed to think, learn, reason, and solve problems, often mimicking human cognitive functions such as decision-making, pattern recognition, and language understanding.</h4>
 
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI-roadmap.md" target="_blank">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Roadmap%20Now-808080?style=for-the-badge&logo=github&logoColor=white" alt="AI Roadmap">
+</a>
+
+
 <h3>🧩 Core Fields Within AI </h3>
 
 1] <b>Machine Learning</b>	- Systems that learn from data without being explicitly programmed<br>
@@ -13,6 +18,26 @@
 4] <b>Computer Vision</b>	- Interpreting visual information from the world<br>
 5] <b>Robotics</b> -	Creating intelligent machines that can interact with the physical environment<br>
 6] <b>Expert Systems</b> -	Mimic decision-making ability of a human expert<br>
+
+<a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank">
+  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-9acd32?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-blueviolet?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-orange?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
+  <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-00bfff?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank">
+  <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-green?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a>
+
+
 
 <h3>⚙️ Types of Artificial Intelligence</h3>
 
@@ -30,6 +55,39 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 2] <b>Libraries/Frameworks:</b> TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, Hugging Face Transformers <br>
 3] <b>Platforms:</b> Google AI, OpenAI, IBM Watson, Microsoft Azure AI <br>
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+<a href="https://huggingface.co/transformers/" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"></a>
+
+
+<a href="https://ai.google/" target="_blank">
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
+<a href="https://openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+<a href="https://www.ibm.com/watson" target="_blank">
+  <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
+<a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AI"></a>
+
+
 <h3>📌 Applications of AI </h3>
 
 1] <b>Healthcare</b> →<br>
@@ -37,11 +95,25 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>AI-powered Protein Folding (e.g., AlphaFold)</b>: Predicts complex 3D protein structures, accelerating drug discovery.
 • <b>Mental Health Analysis via Voice & Text</b>: Detects mental health conditions by analyzing speech tone, text sentiment, and facial expressions.
 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9417057/" target="_blank">
+  <img src="https://img.shields.io/badge/Digital%20Pathology%20with%20AI-Cancer%20Detection-8e44ad?style=for-the-badge&logo=microscope&logoColor=white" alt="Digital Pathology"></a>
+<a href="https://www.deepmind.com/research/highlighted-research/alphafold" target="_blank">
+  <img src="https://img.shields.io/badge/Protein%20Folding%20(AlphaFold)-3D%20Structures-1abc9c?style=for-the-badge&logo=deepmind&logoColor=white" alt="AlphaFold"></a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10602084/" target="_blank">
+  <img src="https://img.shields.io/badge/Mental%20Health%20via%20Voice/Text-Detection%20&%20Sentiment-f39c12?style=for-the-badge&logo=google%20assistant&logoColor=white" alt="Mental Health AI"></a>
+
 <br>
 2] <b>Finance</b> → <br>
 • <b>AI for Market Sentiment Analysis</b>: Uses NLP to evaluate financial news and social media for real-time stock trend prediction.<br>
 • <b>Deep Reinforcement Learning for Portfolio Optimization</b>: Simulates investment strategies to maximize returns dynamically.<br>
 • <b>Synthetic Data for Compliance & Model Testing</b>: Creates fake but realistic data for safe model training and testing.<br>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2405452621000019" target="_blank">
+  <img src="https://img.shields.io/badge/Market%20Sentiment%20Analysis-NLP%20for%20Trends-2ecc71?style=for-the-badge&logo=chart-line&logoColor=white" alt="Market Sentiment"></a>
+<a href="https://arxiv.org/abs/1810.09538" target="_blank">
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-Portfolio%20Optimization-e74c3c?style=for-the-badge&logo=python&logoColor=white" alt="RL for Finance"></a>
+<a href="https://hazy.com/synthetic-data" target="_blank">
+  <img src="https://img.shields.io/badge/Synthetic%20Data-Model%20Testing%20&%20Compliance-3498db?style=for-the-badge&logo=databricks&logoColor=white" alt="Synthetic Data"></a>
 
 <br>
 3] <b>Transportation</b> → <br>
@@ -49,11 +121,25 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>AI-driven Drone Navigation & Delivery</b>: Empowers autonomous drones to perform complex navigation for real-world deliveries.<br>
 • <b>Predictive Maintenance using Digital Twins</b>: Simulates vehicle components digitally to detect and prevent mechanical issues early.<br>
 
+<a href="https://ieeexplore.ieee.org/document/9318665" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Traffic%20Control-Dynamic%20Signals-9b59b6?style=for-the-badge&logo=traffic-light&logoColor=white" alt="Traffic AI"></a>
+<a href="https://skydio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Drone%20Navigation%20AI-Autonomous%20Delivery-16a085?style=for-the-badge&logo=drone&logoColor=white" alt="Drone AI"></a>
+<a href="https://www.ibm.com/topics/digital-twin" target="_blank">
+  <img src="https://img.shields.io/badge/Predictive%20Maintenance-Digital%20Twins-2980b9?style=for-the-badge&logo=ibm&logoColor=white" alt="Digital Twins"></a>
+
 <br>
 4] <b>Customer Service</b> →<br>
 • <b>Emotionally Intelligent AI Agents</b>: Understand and respond empathetically based on user sentiment in speech or text.<br>
 • <b>Autonomous Issue Resolution Bots</b>: Handles complex service tasks (refunds, account resets) independently.<br>
 • <b>Voice Biometrics for Fraud Prevention</b>: Verifies identity through voice patterns to stop impersonation.<br>
+
+<a href="https://www.salesforce.com/products/einstein/ai-research/" target="_blank">
+  <img src="https://img.shields.io/badge/Emotionally%20Intelligent%20Agents-Empathetic%20AI-ff7675?style=for-the-badge&logo=salesforce&logoColor=white" alt="Emotional AI"></a>
+<a href="https://dialogflow.cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Issue%20Resolution%20Bots-Autonomous%20Support-6c5ce7?style=for-the-badge&logo=google&logoColor=white" alt="Autonomous Bots"></a>
+<a href="https://www.nuance.com/what-we-do/voice-biometrics.html" target="_blank">
+  <img src="https://img.shields.io/badge/Voice%20Biometrics-Fraud%20Detection-d35400?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Voice Biometrics"></a>
 
 <br>
 5] <b>Marketing</b> →<br>
@@ -61,11 +147,26 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>AI-Powered Dynamic Pricing</b>: Adjusts prices based on demand, competitors, and customer behavior in real-time.<br>
 • <b>AI-Generated Customer Personas</b>: Builds detailed personas from data for precise ad targeting.<br>
 
+<a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" target="_blank">
+  <img src="https://img.shields.io/badge/Generative%20AI%20Content-Hyper--Personalization-f1c40f?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI Marketing"></a>
+
+<a href="https://www.clevertap.com/blog/dynamic-pricing/" target="_blank">
+  <img src="https://img.shields.io/badge/Dynamic%20Pricing-AI%20Driven%20Adjustments-e67e22?style=for-the-badge&logo=pricetag&logoColor=white" alt="Dynamic Pricing"></a>
+<a href="https://www.marketo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Customer%20Personas-AI%20Generated-8e44ad?style=for-the-badge&logo=adobe&logoColor=white" alt="Customer Personas"></a>
+
 <br>
 6] <b>Gaming</b> →<br>
 • <b>Procedural Content Generation (PCG)</b>: Dynamically creates new levels or stories tailored to the player’s style.<br>
 • <b>AI for Player Behavior Prediction</b>: Anticipates in-game decisions to adjust difficulty or recommend content.<br>
 • <b>Neural Style Transfer for Game Art</b>: Applies different artistic styles to characters and environments using AI.<br>
+
+<a href="https://procedural-generation.art/" target="_blank">
+  <img src="https://img.shields.io/badge/Procedural%20Content%20Gen-Dynamic%20Gameplay-2c3e50?style=for-the-badge&logo=unity&logoColor=white" alt="PCG"></a>
+<a href="https://deepmind.com/research/highlighted-research/alphastar" target="_blank">
+  <img src="https://img.shields.io/badge/Player%20Behavior%20Prediction-Adaptive%20AI-27ae60?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Behavior Prediction"></a>
+<a href="https://www.tensorflow.org/tutorials/generative/style_transfer" target="_blank">
+  <img src="https://img.shields.io/badge/Neural%20Style%20Transfer-AI%20Game%20Art-9b59b6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Style Transfer"></a>
 
 
 
@@ -75,6 +176,16 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 1] <b>Data Science </b> → Uses data to generate insights <br>
 2] <b>Machine Learning </b> → Learns from data to make predictions <br>
 3] <b>Artificial Intelligence </b> → Broader concept where machines simulate human intelligence <br>
+
+<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
+  <img src="https://img.shields.io/badge/Data_Science-Insight_from_Data-blue?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Data Science Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Machine_Learning-Learns_from_Data-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Simulates_Human_Intelligence-purple?style=for-the-badge&logo=deepai&logoColor=white" alt="Artificial Intelligence Badge"></a>
+
 
 <h3>🧠 Core Idea of AI</h3>
 
