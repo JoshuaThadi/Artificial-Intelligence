@@ -55,6 +55,14 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 2] <b>Libraries/Frameworks:</b> TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, Hugging Face Transformers <br>
 3] <b>Platforms:</b> Google AI, OpenAI, IBM Watson, Microsoft Azure AI <br>
 
+<a href="https://ai.google/" target="_blank">
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
+<a href="https://openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+
 <a href="https://www.ibm.com/watson" target="_blank">
   <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
 <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
@@ -82,15 +90,6 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-
-<a href="https://ai.google/" target="_blank">
-  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
-<a href="https://openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
-
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-
 
 
 <h3>📌 Applications of AI </h3>
