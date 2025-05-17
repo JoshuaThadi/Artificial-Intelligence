@@ -19,17 +19,17 @@
 5] <b>Robotics</b> -	Creating intelligent machines that can interact with the physical environment<br>
 6] <b>Expert Systems</b> -	Mimic decision-making ability of a human expert<br>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-blueviolet?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a>
-
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-orange?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a>
-
 <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
   <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-00bfff?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a>
 
 <a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank">
   <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-9acd32?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-blueviolet?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-orange?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a>
 
 <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank">
   <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-green?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a>
@@ -55,6 +55,14 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 2] <b>Libraries/Frameworks:</b> TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, Hugging Face Transformers <br>
 3] <b>Platforms:</b> Google AI, OpenAI, IBM Watson, Microsoft Azure AI <br>
 
+<a href="https://www.ibm.com/watson" target="_blank">
+  <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
+<a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AI"></a>
+
+  <a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
+
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://www.r-project.org/" target="_blank">
@@ -79,13 +87,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
 <a href="https://openai.com/" target="_blank">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
-<a href="https://www.ibm.com/watson" target="_blank">
-  <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
-<a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AI"></a>
 
-  <a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
 <a href="https://opencv.org/" target="_blank">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
 
