@@ -176,10 +176,6 @@ The AI Hub can be utilized for various practical use cases, including the develo
 
 
 # AI Bots & Voice Assistants projects
-<a href="https://deepseek-bot.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
-</a>
-
 
 **AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
 
@@ -241,6 +237,13 @@ The AI Hub can be utilized for various practical use cases, including the develo
   - deepseek API
 
 
+<img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/deepseek-botimg.png">
+<p>
+ This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers.
+</p>
+<a href="https://deepseek-bot.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
+</a>
 
 
 <div align="center">
