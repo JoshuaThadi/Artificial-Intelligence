@@ -27,6 +27,15 @@
 10] <b>MLOps</b> – AI in production (monitoring, CI/CD, pipelines) <br>
 11] <b>Ethics & Bias in AI</b> – Fairness, transparency, accountability <br>
 
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q%20Learning-B48EAD?style=for-the-badge&logo=github" alt="Reinforcement Learning"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
+ 
 <a href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence" target="_blank">
   <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
   
@@ -47,16 +56,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> 
   <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q%20Learning-B48EAD?style=for-the-badge&logo=github" alt="Reinforcement Learning"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
-  
+ 
 <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
   <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
 
