@@ -33,6 +33,9 @@
 <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
   <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a> 
 
+<a href="https://en.wikipedia.org/wiki/Automated_machine_learning" target="_blank">
+  <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
+
 <a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank"> 
   <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a> 
 
@@ -60,9 +63,6 @@
 <a href="https://en.wikipedia.org/wiki/Multimodal_artificial_intelligence" target="_blank">
   <img src="https://img.shields.io/badge/Multi--modal%20AI-CLIP%20%26%20Flamingo-4C566A?style=for-the-badge&logo=github" alt="Multi-modal AI"></a> 
 
-<a href="https://en.wikipedia.org/wiki/Automated_machine_learning" target="_blank">
-  <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
-
 <a href="https://en.wikipedia.org/wiki/MLOps" target="_blank">
   <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
@@ -89,7 +89,29 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 7] <b>Weights & Biases</b> – Experiment tracking & model monitoring – wandb.ai <br>
 8] <b>Docker</b> – Containerize AI applications – docker.com <br>
 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter_Notebook-Interactive_Notebooks-5E81AC?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"></a> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Colab-Cloud_Notebooks-BF616A?style=for-the-badge&logo=Google%20Colab&logoColor=white" alt="Google Colab"></a> <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.shields.io/badge/Anaconda-AI_Python_Distribution-D8DEE9?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda"></a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-Lightweight_IDE-A3BE8C?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"></a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-Full_Featured_IDE-EBCB8B?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></a> <a href="https://www.tensorflow.org/tensorboard" target="_blank"> <img src="https://img.shields.io/badge/TensorBoard-Model_Visualization-D08770?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorBoard"></a> <a href="https://wandb.ai/" target="_blank"> <img src="https://img.shields.io/badge/Weights_&_Biases-Experiment_Tracking-B48EAD?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"></a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-AI_Containerization-ECEFF4?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></a>
+<a href="https://jupyter.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-Interactive_Notebooks-5E81AC?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"></a> 
+
+<a href="https://colab.research.google.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Google_Colab-Cloud_Notebooks-BF616A?style=for-the-badge&logo=Google%20Colab&logoColor=white" alt="Google Colab"></a> 
+
+<a href="https://www.anaconda.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Anaconda-AI_Python_Distribution-D8DEE9?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda"></a> 
+
+<a href="https://code.visualstudio.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/VS_Code-Lightweight_IDE-A3BE8C?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"></a> 
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PyCharm-Full_Featured_IDE-EBCB8B?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></a> 
+  
+<a href="https://www.tensorflow.org/tensorboard" target="_blank"> 
+  <img src="https://img.shields.io/badge/TensorBoard-Model_Visualization-D08770?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorBoard"></a> 
+  
+<a href="https://wandb.ai/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Weights_&_Biases-Experiment_Tracking-B48EAD?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"></a> 
+  
+<a href="https://www.docker.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Docker-AI_Containerization-ECEFF4?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></a>
 
 <h3>🛠️ Common AI Tools & Frameworks</h3>
 
@@ -99,6 +121,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://ai.google/" target="_blank">
   <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"></a>
+  
 <a href="https://openai.com/" target="_blank">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
 
@@ -107,6 +130,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.ibm.com/watson" target="_blank">
   <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson"></a>
+  
 <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AI"></a>
 
@@ -115,14 +139,19 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  
 <a href="https://www.r-project.org/" target="_blank">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+  
 <a href="https://www.java.com/" target="_blank">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  
   <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  
 <a href="https://huggingface.co/transformers/" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"></a>
 
@@ -130,6 +159,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
 
@@ -141,7 +171,17 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>LightGBM</b> – Fast, efficient gradient boosting framework by Microsoft.<br>
 • <b>CatBoost</b> – Gradient boosting library with native support for categorical features.<br><br>
 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-Classic%20ML%20Library-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a> <a href="https://xgboost.ai/" target="_blank"> <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-BF616A?style=for-the-badge&logo=apachespark&logoColor=white" alt="XGBoost"></a> <a href="https://lightgbm.readthedocs.io/" target="_blank"> <img src="https://img.shields.io/badge/LightGBM-Fast%20Boosting-A3BE8C?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM"></a> <a href="https://catboost.ai/" target="_blank"> <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
+<a href="https://scikit-learn.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/scikit--learn-Classic%20ML%20Library-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a> 
+  
+<a href="https://xgboost.ai/" target="_blank"> 
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-BF616A?style=for-the-badge&logo=apachespark&logoColor=white" alt="XGBoost"></a> 
+  
+<a href="https://lightgbm.readthedocs.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LightGBM-Fast%20Boosting-A3BE8C?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM"></a> 
+  
+<a href="https://catboost.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
 
 <b>🤖 Deep Learning</b><br>
 • <b>TensorFlow</b> – End-to-end open-source platform for deep learning by Google.<br>
@@ -150,7 +190,20 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>JAX</b> – High-performance numerical computing with automatic differentiation.<br>
 • <b>ONNX</b> – Open standard for representing machine learning models for interoperability.<br><br>
 
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-End--to--End%20DL-EBCB8B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a> <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-High--Level%20API-88C0D0?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a> <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-Dynamic%20DL%20Framework-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a> <a href="https://github.com/google/jax" target="_blank"> <img src="https://img.shields.io/badge/JAX-Numerical%20Computing-A3BE8C?style=for-the-badge&logo=google&logoColor=white" alt="JAX"></a> <a href="https://onnx.ai/" target="_blank"> <img src="https://img.shields.io/badge/ONNX-Model%20Interop-81A1C1?style=for-the-badge&logo=openai&logoColor=white" alt="ONNX"></a>
+<a href="https://www.tensorflow.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/TensorFlow-End--to--End%20DL-EBCB8B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a> 
+
+<a href="https://keras.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Keras-High--Level%20API-88C0D0?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a> 
+  
+<a href="https://pytorch.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PyTorch-Dynamic%20DL%20Framework-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a> 
+  
+<a href="https://github.com/google/jax" target="_blank"> 
+  <img src="https://img.shields.io/badge/JAX-Numerical%20Computing-A3BE8C?style=for-the-badge&logo=google&logoColor=white" alt="JAX"></a> 
+  
+<a href="https://onnx.ai/" target="_blank"> 
+  <img src="https://img.shields.io/badge/ONNX-Model%20Interop-81A1C1?style=for-the-badge&logo=openai&logoColor=white" alt="ONNX"></a>
 
 <b>📚 NLP (Natural Language Processing)</b><br>
 • <b>spaCy</b> – Industrial-strength NLP library with fast tokenization and pipelines.<br>
@@ -158,7 +211,17 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>transformers</b> – Hugging Face library for pre-trained transformer models (e.g., BERT, GPT).<br>
 • <b>OpenAI API</b> – Access large language models like GPT for advanced NLP tasks.<br><br>
 
-<a href="https://spacy.io/" target="_blank"> <img src="https://img.shields.io/badge/spaCy-Fast%20NLP%20Pipelines-5E81AC?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"></a> <a href="https://www.nltk.org/" target="_blank"> <img src="https://img.shields.io/badge/NLTK-Linguistics%20Toolkit-D8DEE9?style=for-the-badge&logo=bookstack&logoColor=white" alt="NLTK"></a> <a href="https://huggingface.co/transformers/" target="_blank"> <img src="https://img.shields.io/badge/transformers-HuggingFace%20Models-D08770?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a> <a href="https://platform.openai.com/docs" target="_blank"> <img src="https://img.shields.io/badge/OpenAI%20API-Language%20Models-B48EAD?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
+<a href="https://spacy.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/spaCy-Fast%20NLP%20Pipelines-5E81AC?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"></a> 
+  
+<a href="https://www.nltk.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLTK-Linguistics%20Toolkit-D8DEE9?style=for-the-badge&logo=bookstack&logoColor=white" alt="NLTK"></a> 
+  
+<a href="https://huggingface.co/transformers/" target="_blank"> 
+  <img src="https://img.shields.io/badge/transformers-HuggingFace%20Models-D08770?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a> 
+
+<a href="https://platform.openai.com/docs" target="_blank"> 
+  <img src="https://img.shields.io/badge/OpenAI%20API-Language%20Models-B48EAD?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
 
 <b>🖼️ Computer Vision</b><br>
 • <b>OpenCV</b> – Widely-used library for real-time computer vision tasks.<br>
@@ -166,7 +229,17 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>YOLOv8</b> – State-of-the-art real-time object detection by Ultralytics.<br>
 • <b>TorchVision</b> – PyTorch’s library for vision datasets, models, and transforms.<br><br>
 
-<a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-Vision%20Library-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://img.shields.io/badge/Detectron2-FB%20Detection%20Framework-BF616A?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"></a> <a href="https://github.com/ultralytics/ultralytics" target="_blank"> <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-A3BE8C?style=for-the-badge&logo=yolov5&logoColor=white" alt="YOLOv8"></a> <a href="https://pytorch.org/vision/" target="_blank"> <img src="https://img.shields.io/badge/TorchVision-Vision%20Utils-81A1C1?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"></a>
+<a href="https://opencv.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/OpenCV-Vision%20Library-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> 
+  
+<a href="https://github.com/facebookresearch/detectron2" target="_blank"> 
+  <img src="https://img.shields.io/badge/Detectron2-FB%20Detection%20Framework-BF616A?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"></a> 
+  
+<a href="https://github.com/ultralytics/ultralytics" target="_blank"> 
+  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-A3BE8C?style=for-the-badge&logo=yolov5&logoColor=white" alt="YOLOv8"></a> 
+  
+<a href="https://pytorch.org/vision/" target="_blank"> 
+  <img src="https://img.shields.io/badge/TorchVision-Vision%20Utils-81A1C1?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"></a>
 
 <b>🛠 Model Deployment & Serving</b><br>
 • <b>Flask</b> – Lightweight Python web framework for deploying ML models.<br>
@@ -176,7 +249,23 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>TensorFlow Serving</b> – High-performance model serving system for TensorFlow.<br>
 • <b>NVIDIA Triton</b> – Scalable inference server supporting multiple frameworks and GPUs.<br>
 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-Deploy%20Web%20Models-5E81AC?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-Production%20APIs-A3BE8C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a> <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-EBCB8B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a> <a href="https://gradio.app/" target="_blank"> <img src="https://img.shields.io/badge/Gradio-Web%20UI%20for%20ML-B48EAD?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a> <a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow%20Serving-Scalable%20Inference-D08770?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Serving"></a> <a href="https://developer.nvidia.com/nvidia-triton-inference-server" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA%20Triton-High%20Perf%20Serving-8FBCBB?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Flask-Deploy%20Web%20Models-5E81AC?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a> 
+  
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/FastAPI-Production%20APIs-A3BE8C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a> 
+  
+<a href="https://streamlit.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-EBCB8B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a> 
+  
+<a href="https://gradio.app/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Gradio-Web%20UI%20for%20ML-B48EAD?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a> 
+  
+<a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank"> 
+  <img src="https://img.shields.io/badge/TensorFlow%20Serving-Scalable%20Inference-D08770?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Serving"></a> 
+  
+<a href="https://developer.nvidia.com/nvidia-triton-inference-server" target="_blank"> 
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-High%20Perf%20Serving-8FBCBB?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton"></a>
 
 
 <h3>🌟 Relationship Between AI, Machine Learning, and Data Science</h3>
@@ -209,7 +298,23 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 5] Making decisions<br>
 6] Seeing and interpreting images<br>
 
-<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank"> <img src="https://img.shields.io/badge/Speech_Recognition-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Speech Recognition"></a> <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> <img src="https://img.shields.io/badge/NLP-Understanding_Language-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a> <a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank"> <img src="https://img.shields.io/badge/Problem_Solving-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Problem Solving"></a> <a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank"> <img src="https://img.shields.io/badge/Decision_Making-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Decision Making"></a> <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> <img src="https://img.shields.io/badge/Computer_Vision-Machine_Seeing-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a>
+<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank"> 
+  <img src="https://img.shields.io/badge/Speech_Recognition-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Speech Recognition"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLP-Understanding_Language-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank"> 
+  <img src="https://img.shields.io/badge/Problem_Solving-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Problem Solving"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank"> 
+  <img src="https://img.shields.io/badge/Decision_Making-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Decision Making"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
+  <img src="https://img.shields.io/badge/Computer_Vision-Machine_Seeing-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a>
 
 
 <h3>📌 AI Topics to Include</h3>
@@ -221,7 +326,20 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • Clustering (KMeans, DBSCAN)<br>
 • Dimensionality Reduction (PCA, t-SNE)<br>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-Learning_Algorithms-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"></a> <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> <img src="https://img.shields.io/badge/NLP-Text_Understanding-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> <img src="https://img.shields.io/badge/Computer_Vision-Visual_Recognition-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank"> <img src="https://img.shields.io/badge/Reinforcement_Learning-AI_with_Agents-D08770?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning_Algorithms-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLP-Text_Understanding-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
+  <img src="https://img.shields.io/badge/Computer_Vision-Visual_Recognition-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-AI_with_Agents-D08770?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
 
 <b>🧠 Deep Learning</b><br>
 • Perceptrons & MLPs<br>
@@ -233,14 +351,19 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Perceptron" target="_blank">
   <img src="https://img.shields.io/badge/Perceptrons_&_MLPs-Neural_Network_Basics-5E81AC?style=for-the-badge&logo=pytorch&logoColor=white" alt="Perceptrons & MLPs"></a>
+  
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
   <img src="https://img.shields.io/badge/CNNs-(VGG,_ResNet)-4C72A4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNNs"></a>
+
 <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
   <img src="https://img.shields.io/badge/RNNs,_LSTM,_GRU-Sequence_Modeling-3B628C?style=for-the-badge&logo=pytorch&logoColor=white" alt="RNNs, LSTM, GRU"></a>
+
 <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" target="_blank">
   <img src="https://img.shields.io/badge/Transformers-(BERT,_GPT,_ViT)-4B61D1?style=for-the-badge&logo=openai&logoColor=white" alt="Transformers"></a>
+
 <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">
   <img src="https://img.shields.io/badge/GANs-(DCGAN,_CycleGAN)-6A5ACD?style=for-the-badge&logo=fastapi&logoColor=white" alt="GANs"></a>
+
 <a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank">
   <img src="https://img.shields.io/badge/Diffusion_Models-Stable_Diffusion-3E8EDE?style=for-the-badge&logo=stability.ai&logoColor=white" alt="Diffusion Models"></a>
 
@@ -253,10 +376,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Tokenization_(machine_learning)" target="_blank">
   <img src="https://img.shields.io/badge/Tokenization_&_Embeddings-Word2Vec,_GloVe,_BERT-BF616A?style=for-the-badge&logo=spaCy&logoColor=white" alt="Embeddings"></a>
+
 <a href="https://en.wikipedia.org/wiki/Named-entity_recognition" target="_blank">
   <img src="https://img.shields.io/badge/Text_Classification_&_NER-NLP_Tasks-BD5B5B?style=for-the-badge&logo=nltk&logoColor=white" alt="NER"></a>
+
 <a href="https://en.wikipedia.org/wiki/Automatic_summarization" target="_blank">
   <img src="https://img.shields.io/badge/QA_&_Summarization-Text_Understanding-B84C4C?style=for-the-badge&logo=openai&logoColor=white" alt="Summarization"></a>
+
 <a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank">
   <img src="https://img.shields.io/badge/Chatbots_&_Conversational_AI-Dialogue_Systems-B43D3D?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Chatbots"></a>
 
@@ -269,10 +395,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Image_processing" target="_blank">
   <img src="https://img.shields.io/badge/Image_Preprocessing-CV_Techniques-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Preprocessing"></a>
+
 <a href="https://en.wikipedia.org/wiki/Object_detection" target="_blank">
   <img src="https://img.shields.io/badge/Object_Detection-(YOLO,_SSD)-5A4FCF?style=for-the-badge&logo=yolo&logoColor=white" alt="Object Detection"></a>
+
 <a href="https://en.wikipedia.org/wiki/Image_segmentation" target="_blank">
   <img src="https://img.shields.io/badge/Segmentation-(U_Net,_Mask,R_CNN)-6050DC?style=for-the-badge&logo=segmentation-fault&logoColor=white" alt="Segmentation"></a>
+
 <a href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">
   <img src="https://img.shields.io/badge/OCR-(Tesseract,_EasyOCR)-73C2FB?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR"></a>
 
@@ -284,8 +413,10 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank">
   <img src="https://img.shields.io/badge/Value_Based_Methods-(Q_learning,_DQN)-A3BE8C?style=for-the-badge&logo=openai&logoColor=white" alt="Q-learning"></a>
+
 <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html" target="_blank">
   <img src="https://img.shields.io/badge/Policy_Based_Methods-(REINFORCE,_PPO)-8FBC8F?style=for-the-badge&logo=ray&logoColor=white" alt="PPO"></a>
+
 <a href="https://gym.openai.com/" target="_blank">
   <img src="https://img.shields.io/badge/Environments-(Gym,_PettingZoo)-88C0D0?style=for-the-badge&logo=gym&logoColor=white" alt="RL Environments"></a>
 
@@ -298,10 +429,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.kaggle.com/datasets" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-Datasets-FFA857?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+
 <a href="https://huggingface.co/datasets" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-Datasets-F2B272?style=for-the-badge&logo=huggingface&logoColor=white" alt="HF Datasets"></a>
+
 <a href="https://paperswithcode.com/datasets" target="_blank">
   <img src="https://img.shields.io/badge/PaperswithCode-Datasets-FFB86C?style=for-the-badge&logo=paperswithcode&logoColor=white" alt="Papers with Code"></a>
+
 <a href="https://archive.ics.uci.edu/ml/index.php" target="_blank">
   <img src="https://img.shields.io/badge/UCI-ML_Repository-EFAB6E?style=for-the-badge&logo=databricks&logoColor=white" alt="UCI"></a>
 
@@ -315,12 +449,16 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.deeplearning.ai/" target="_blank">
   <img src="https://img.shields.io/badge/DeepLearning.ai-Courses-B48EAD?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.ai"></a>
+
 <a href="https://cs229.stanford.edu/" target="_blank">
   <img src="https://img.shields.io/badge/Stanford_CS229-ML_Theory-A48CB4?style=for-the-badge&logo=stanford&logoColor=white" alt="CS229"></a>
+
 <a href="https://www.fast.ai/" target="_blank">
   <img src="https://img.shields.io/badge/fast.ai-Practical_DL-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="fast.ai"></a>
+
 <a href="https://mitibmwatsonailab.mit.edu/research/projects/mit-deep-learning-6-s191/" target="_blank">
   <img src="https://img.shields.io/badge/MIT_6.S191-Deep_Learning-D8BFD8?style=for-the-badge&logo=mit&logoColor=white" alt="MIT DL"></a>
+
 <a href="https://github.com/openai/openai-cookbook" target="_blank">
   <img src="https://img.shields.io/badge/OpenAI-Cookbook-FCFACD?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Cookbook"></a>
 
@@ -385,8 +523,10 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.salesforce.com/products/einstein/ai-research/" target="_blank">
   <img src="https://img.shields.io/badge/Emotionally%20Intelligent%20Agents-Empathetic%20AI-5E81AC?style=for-the-badge&logo=salesforce&logoColor=white" alt="Emotional AI"></a>
+
 <a href="https://dialogflow.cloud.google.com/" target="_blank">
   <img src="https://img.shields.io/badge/Issue%20Resolution%20Bots-Autonomous%20Support-BF616A?style=for-the-badge&logo=google&logoColor=white" alt="Autonomous Bots"></a>
+
 <a href="https://www.nuance.com/what-we-do/voice-biometrics.html" target="_blank">
   <img src="https://img.shields.io/badge/Voice%20Biometrics-Fraud%20Detection-4C599A?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Voice Biometrics"></a>
 
@@ -401,6 +541,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.clevertap.com/blog/dynamic-pricing/" target="_blank">
   <img src="https://img.shields.io/badge/Dynamic%20Pricing-AI%20Driven%20Adjustments-BF616A?style=for-the-badge&logo=pricetag&logoColor=white" alt="Dynamic Pricing"></a>
+
 <a href="https://www.marketo.com/" target="_blank">
   <img src="https://img.shields.io/badge/Customer%20Personas-AI%20Generated-5E81AC?style=for-the-badge&logo=adobe&logoColor=white" alt="Customer Personas"></a>
 
@@ -412,8 +553,10 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://procedural-generation.art/" target="_blank">
   <img src="https://img.shields.io/badge/Procedural%20Content%20Gen-Dynamic%20Gameplay-5E81AC?style=for-the-badge&logo=unity&logoColor=white" alt="PCG"></a>
+
 <a href="https://deepmind.com/research/highlighted-research/alphastar" target="_blank">
   <img src="https://img.shields.io/badge/Player%20Behavior%20Prediction-Adaptive%20AI-4C599A?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Behavior Prediction"></a>
+
 <a href="https://www.tensorflow.org/tutorials/generative/style_transfer" target="_blank">
   <img src="https://img.shields.io/badge/Neural%20Style%20Transfer-AI%20Game%20Art-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Style Transfer"></a>
 
