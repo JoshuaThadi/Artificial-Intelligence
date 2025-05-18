@@ -6,8 +6,11 @@
 <h4>Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. AI systems are designed to think, learn, reason, and solve problems, often mimicking human cognitive functions such as decision-making, pattern recognition, and language understanding.</h4>
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/AI-roadmap.md" target="_blank">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-Roadmap-808080?style=for-the-badge&logo=github&logoColor=white" alt="AI Roadmap">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Roadmap-808080?style=for-the-badge&logo=github&logoColor=white" alt="AI Roadmap"></a>
+  <a href="https://youtu.be/5NgNicANyqM?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-Artifical_intelligence-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
 </a>
+
 
 
 <h3>🧩 Core Fields Within AI </h3>
