@@ -54,18 +54,18 @@
 <a href="https://en.wikipedia.org/wiki/Automated_machine_learning" target="_blank">
   <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
 
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-D08770?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> 
+  <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
+
 <a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank"> 
   <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
 
   <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
   <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
 
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-D08770?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> 
-  <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
- 
 
 
 
