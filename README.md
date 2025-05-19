@@ -46,7 +46,16 @@
   <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
 
 <a href="https://en.wikipedia.org/wiki/Expert_system" target="_blank"> 
-  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a> 
+  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
+
+  <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Multimodal_artificial_intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Multi--modal%20AI-CLIP%20%26%20Flamingo-4C566A?style=for-the-badge&logo=github" alt="Multi-modal AI"></a> 
+
+<a href="https://en.wikipedia.org/wiki/MLOps" target="_blank">
+  <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-B48EAD?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a> 
@@ -57,14 +66,6 @@
 <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> 
   <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
  
-<a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Multimodal_artificial_intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/Multi--modal%20AI-CLIP%20%26%20Flamingo-4C566A?style=for-the-badge&logo=github" alt="Multi-modal AI"></a> 
-
-<a href="https://en.wikipedia.org/wiki/MLOps" target="_blank">
-  <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
 
 
