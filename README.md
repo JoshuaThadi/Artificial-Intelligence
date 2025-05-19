@@ -27,22 +27,22 @@
 10] <b>MLOps</b> – AI in production (monitoring, CI/CD, pipelines) <br>
 11] <b>Ethics & Bias in AI</b> – Fairness, transparency, accountability <br>
 
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
+<a href="https://www.ibm.com/think/topics/deep-learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
 
-<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">
+<a href="https://www.ibm.com/think/topics/reinforcement-learning" target="_blank">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q%20Learning-B48EAD?style=for-the-badge&logo=github" alt="Reinforcement Learning"></a> 
 
-<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
+<a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
   <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
 
-  <a href="https://en.wikipedia.org/wiki/Multimodal_artificial_intelligence" target="_blank">
+  <a href="https://www.ibm.com/think/topics/multimodal-ai" target="_blank">
   <img src="https://img.shields.io/badge/Multi--modal%20AI-CLIP%20%26%20Flamingo-4C566A?style=for-the-badge&logo=github" alt="Multi-modal AI"></a> 
 
-<a href="https://en.wikipedia.org/wiki/MLOps" target="_blank">
+<a href="https://www.ibm.com/think/topics/mlops" target="_blank">
   <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+<a href="https://www.ibm.com/think/topics/machine-learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-B48EAD?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a> 
  
 <a href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence" target="_blank">
