@@ -27,11 +27,23 @@
 10] <b>MLOps</b> – AI in production (monitoring, CI/CD, pipelines) <br>
 11] <b>Ethics & Bias in AI</b> – Fairness, transparency, accountability <br>
 
-<a href="https://www.ibm.com/think/topics/deep-learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
+<a href="https://www.coursera.org/in/articles/expert-system-in-ai" target="_blank"> 
+  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
+
+  <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-B48EAD?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a> 
+
+  <a href="https://www.ibm.com/think/topics/natural-language-processing" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-D08770?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a> 
+
+  <a href="https://www.ibm.com/think/topics/computer-vision" target="_blank"> 
+  <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a> 
 
 <a href="https://www.ibm.com/think/topics/reinforcement-learning" target="_blank">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q%20Learning-B48EAD?style=for-the-badge&logo=github" alt="Reinforcement Learning"></a> 
+
+<a href="https://www.ibm.com/think/topics/deep-learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
 
 <a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
   <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
@@ -42,26 +54,19 @@
 <a href="https://www.ibm.com/think/topics/mlops" target="_blank">
   <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
-<a href="https://www.ibm.com/think/topics/machine-learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning%20from%20Data-B48EAD?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Machine Learning Badge"></a> 
  
 <a href="https://www.ironhack.com/gb/blog/ethics-and-bias-in-artificial-intelligence" target="_blank">
   <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
   
-<a href="https://www.ibm.com/think/topics/computer-vision" target="_blank"> 
-  <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20Perception-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"></a> 
 
 <a href="https://www.ibm.com/think/topics/automl" target="_blank">
   <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
 
-<a href="https://www.ibm.com/think/topics/natural-language-processing" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLP-Human%20Language%20Understanding-D08770?style=for-the-badge&logo=neovim&logoColor=white" alt="NLP Badge"></a> 
+
 
 <a href="https://builtin.com/robotics" target="_blank"> 
   <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
 
-<a href="https://www.coursera.org/in/articles/expert-system-in-ai" target="_blank"> 
-  <img src="https://img.shields.io/badge/Expert%20Systems-Human--like%20Decision%20Making-A3BE8C?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Expert Systems Badge"></a>
 
   <a href="https://www.ibm.com/think/topics/explainable-ai" target="_blank">
   <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
