@@ -102,14 +102,15 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://www.anaconda.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/Anaconda-AI_Python_Distribution-D8DEE9?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda"></a> 
 
-<a href="https://code.visualstudio.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/VS_Code-Lightweight_IDE-A3BE8C?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"></a> 
-
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-  <img src="https://img.shields.io/badge/PyCharm-Full_Featured_IDE-EBCB8B?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></a> 
-  
 <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/Docker-AI_Containerization-ECEFF4?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PyCharm-Full_Featured_IDE-EBCB8B?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></a>
+
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/VS_Code-Lightweight_IDE-A3BE8C?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"></a> 
+  
 
 <h3>🛠️ Common AI Tools & Frameworks</h3>
 
