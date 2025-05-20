@@ -45,32 +45,26 @@
 <a href="https://www.ibm.com/think/topics/deep-learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"></a> 
 
-<a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
-  <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
+  <a href="https://builtin.com/robotics" target="_blank"> 
+  <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
 
-  <a href="https://www.ibm.com/think/topics/multimodal-ai" target="_blank">
+   <a href="https://www.ibm.com/think/topics/multimodal-ai" target="_blank">
   <img src="https://img.shields.io/badge/Multi--modal%20AI-CLIP%20%26%20Flamingo-4C566A?style=for-the-badge&logo=github" alt="Multi-modal AI"></a> 
-
-<a href="https://www.ibm.com/think/topics/mlops" target="_blank">
-  <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
-
- 
-<a href="https://www.ironhack.com/gb/blog/ethics-and-bias-in-artificial-intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
-  
 
 <a href="https://www.ibm.com/think/topics/automl" target="_blank">
   <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
 
-
-
-<a href="https://builtin.com/robotics" target="_blank"> 
-  <img src="https://img.shields.io/badge/Robotics-Intelligent%20Machines-8FBCBB?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics Badge"></a> 
-
-
   <a href="https://www.ibm.com/think/topics/explainable-ai" target="_blank">
   <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
 
+  <a href="https://www.ironhack.com/gb/blog/ethics-and-bias-in-artificial-intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
+
+  <a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
+  <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
+
+<a href="https://www.ibm.com/think/topics/mlops" target="_blank">
+  <img src="https://img.shields.io/badge/MLOps-CI%20%2F%20CD-B48EAD?style=for-the-badge&logo=github" alt="MLOps"></a> 
 
 
 
