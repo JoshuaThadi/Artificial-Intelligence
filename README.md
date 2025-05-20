@@ -1,7 +1,7 @@
 <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png?raw=true" alt="Banner Image" width="100%">
 
 
-<h1>★ Artificial Intelligence</h1>
+<h1> Artificial Intelligence</h1>
 
 <h4>Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. AI systems are designed to think, learn, reason, and solve problems, often mimicking human cognitive functions such as decision-making, pattern recognition, and language understanding.</h4>
 
