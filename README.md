@@ -54,11 +54,11 @@
 <a href="https://www.ibm.com/think/topics/automl" target="_blank">
   <img src="https://img.shields.io/badge/AutoML-Model%20Selection-A3BE8C?style=for-the-badge&logo=github" alt="AutoML"></a> 
 
+   <a href="https://www.ironhack.com/gb/blog/ethics-and-bias-in-artificial-intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
+
   <a href="https://www.ibm.com/think/topics/explainable-ai" target="_blank">
   <img src="https://img.shields.io/badge/XAI-Trustworthy%20AI-5E81AC?style=for-the-badge&logo=github" alt="Explainable AI"></a> 
-
-  <a href="https://www.ironhack.com/gb/blog/ethics-and-bias-in-artificial-intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/Ethics%20%26%20Bias-Fair%20AI-BF616A?style=for-the-badge&logo=github" alt="Ethics in AI"></a>
 
   <a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">
   <img src="https://img.shields.io/badge/Generative%20AI-GANs-BF616A?style=for-the-badge&logo=github" alt="Generative AI"></a> 
