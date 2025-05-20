@@ -80,6 +80,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 
 <h3>🧰 Essential AI Software Tools</h3>
+
 1] <b>Jupyter Notebook</b> – Interactive development – jupyter.org <br>
 2] <b>Google Colab</b> – Cloud-based notebooks with GPU/TPU – colab.research.google.com <br>
 3] <b>Anaconda</b> – Python distribution with AI libraries – anaconda.com <br>
@@ -92,8 +93,11 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://jupyter.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/Jupyter_Notebook-Interactive_Notebooks-5E81AC?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"></a> 
 
-<a href="https://colab.research.google.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Google_Colab-Cloud_Notebooks-BF616A?style=for-the-badge&logo=Google%20Colab&logoColor=white" alt="Google Colab"></a> 
+  <a href="https://wandb.ai/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Weights_&_Biases-Experiment_Tracking-B48EAD?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"></a> 
+
+  <a href="https://www.tensorflow.org/tensorboard" target="_blank"> 
+  <img src="https://img.shields.io/badge/TensorBoard-Model_Visualization-D08770?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorBoard"></a> 
 
 <a href="https://www.anaconda.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/Anaconda-AI_Python_Distribution-D8DEE9?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda"></a> 
@@ -103,12 +107,6 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
   <img src="https://img.shields.io/badge/PyCharm-Full_Featured_IDE-EBCB8B?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"></a> 
-  
-<a href="https://www.tensorflow.org/tensorboard" target="_blank"> 
-  <img src="https://img.shields.io/badge/TensorBoard-Model_Visualization-D08770?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorBoard"></a> 
-  
-<a href="https://wandb.ai/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Weights_&_Biases-Experiment_Tracking-B48EAD?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"></a> 
   
 <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/Docker-AI_Containerization-ECEFF4?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></a>
