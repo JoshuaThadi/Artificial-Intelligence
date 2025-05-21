@@ -184,7 +184,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://lightgbm.readthedocs.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/LightGBM-Fast%20Boosting-A3BE8C?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM"></a> 
   
-<br>
+<br><br>
 
 <b>🤖 Deep Learning</b>
 
@@ -209,7 +209,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://onnx.ai/" target="_blank"> 
   <img src="https://img.shields.io/badge/ONNX-Model%20Interop-81A1C1?style=for-the-badge&logo=openai&logoColor=white" alt="ONNX"></a>
 
-<br>
+<br><br>
 
 <b>📚 NLP (Natural Language Processing)</b>
 
@@ -230,7 +230,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://spacy.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/spaCy-Fast%20NLP%20Pipelines-5E81AC?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"></a> 
 
-<br>
+<br><br>
 
 <b>🖼️ Computer Vision</b>
 • <b>OpenCV</b> – Widely-used library for real-time computer vision tasks.<br>
@@ -250,7 +250,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://opencv.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/OpenCV-Vision%20Library-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> 
   
-<br>
+<br><br>
 
 <b>🛠 Model Deployment & Serving</b>
 
@@ -279,7 +279,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://gradio.app/" target="_blank"> 
   <img src="https://img.shields.io/badge/Gradio-Web%20UI%20for%20ML-B48EAD?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a> 
 
-<br>
+<br><br>
 
 <h3>🌟 Relationship Between AI, Machine Learning, and Data Science</h3>
 
