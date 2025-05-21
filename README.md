@@ -288,19 +288,19 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 3] <b>Artificial Intelligence </b> → Broader concept where machines simulate human intelligence <br>
 
 <!-- Artificial Intelligence -->
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+<a href="https://www.ibm.com/think/topics/artificial-intelligence" target="_blank">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-Simulates_Human_Intelligence-B48EAD?style=for-the-badge&logo=deepai&logoColor=white" alt="Artificial Intelligence Badge"></a>
 
 <!-- Machine Learning -->
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+<a href="https://www.ibm.com/think/topics/machine-learning" target="_blank">
   <img src="https://img.shields.io/badge/Machine_Learning-Learns_from_Data-D08770?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge"></a>
 
 <!-- Data Science -->
-<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
+<a href="https://www.ibm.com/think/topics/data-science" target="_blank">
   <img src="https://img.shields.io/badge/Data_Science-Insight_from_Data-5E81AC?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Data Science Badge"></a>
 
 
-
+<br>
 
 <h3>🧠 Core Idea of AI</h3>
 <p>At its heart, AI aims to build machines that can perform tasks that typically require human intelligence, such as:</p>
