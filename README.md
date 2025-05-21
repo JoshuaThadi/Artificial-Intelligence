@@ -170,6 +170,9 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>LightGBM</b> – Fast, efficient gradient boosting framework by Microsoft.<br>
 • <b>CatBoost</b> – Gradient boosting library with native support for categorical features.<br><br>
 
+<a href="https://catboost.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
+
 <a href="https://scikit-learn.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/scikit--learn-Classic%20ML%20Library-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a> 
   
@@ -179,8 +182,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://lightgbm.readthedocs.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/LightGBM-Fast%20Boosting-A3BE8C?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM"></a> 
   
-<a href="https://catboost.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
+
 
 <b>🤖 Deep Learning</b><br>
 • <b>TensorFlow</b> – End-to-end open-source platform for deep learning by Google.<br>
