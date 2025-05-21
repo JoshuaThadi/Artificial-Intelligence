@@ -164,17 +164,19 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 
 <h3>🧩 Core AI Libraries & Modules</h3>
-<b>🧠 General Machine Learning</b><br>
+
+<b>🧠 General Machine Learning</b>
+
 • <b>scikit-learn</b> – User-friendly library for classical machine learning algorithms.<br>
 • <b>XGBoost</b> – Optimized gradient boosting library for fast and accurate models.<br>
 • <b>LightGBM</b> – Fast, efficient gradient boosting framework by Microsoft.<br>
-• <b>CatBoost</b> – Gradient boosting library with native support for categorical features.<br><br>
-
-<a href="https://catboost.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
+• <b>CatBoost</b> – Gradient boosting library with native support for categorical features.<br>
 
 <a href="https://scikit-learn.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/scikit--learn-Classic%20ML%20Library-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a> 
+
+<a href="https://catboost.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/CatBoost-Categorical%20Boosting-EBCB8B?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"></a>
   
 <a href="https://xgboost.ai/" target="_blank"> 
   <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-BF616A?style=for-the-badge&logo=apachespark&logoColor=white" alt="XGBoost"></a> 
@@ -182,14 +184,21 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://lightgbm.readthedocs.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/LightGBM-Fast%20Boosting-A3BE8C?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM"></a> 
   
+<br>
 
+<b>🤖 Deep Learning</b>
 
-<b>🤖 Deep Learning</b><br>
 • <b>TensorFlow</b> – End-to-end open-source platform for deep learning by Google.<br>
 • <b>Keras</b> – High-level API for building and training deep learning models.<br>
 • <b>PyTorch</b> – Flexible and dynamic deep learning framework by Meta (Facebook).<br>
 • <b>JAX</b> – High-performance numerical computing with automatic differentiation.<br>
-• <b>ONNX</b> – Open standard for representing machine learning models for interoperability.<br><br>
+• <b>ONNX</b> – Open standard for representing machine learning models for interoperability.<br>
+  
+<a href="https://pytorch.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PyTorch-Dynamic%20DL%20Framework-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a> 
+  
+<a href="https://github.com/google/jax" target="_blank"> 
+  <img src="https://img.shields.io/badge/JAX-Numerical%20Computing-A3BE8C?style=for-the-badge&logo=google&logoColor=white" alt="JAX"></a> 
 
 <a href="https://www.tensorflow.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/TensorFlow-End--to--End%20DL-EBCB8B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a> 
@@ -197,26 +206,17 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://keras.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/Keras-High--Level%20API-88C0D0?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a> 
   
-<a href="https://pytorch.org/" target="_blank"> 
-  <img src="https://img.shields.io/badge/PyTorch-Dynamic%20DL%20Framework-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a> 
-  
-<a href="https://github.com/google/jax" target="_blank"> 
-  <img src="https://img.shields.io/badge/JAX-Numerical%20Computing-A3BE8C?style=for-the-badge&logo=google&logoColor=white" alt="JAX"></a> 
-  
 <a href="https://onnx.ai/" target="_blank"> 
   <img src="https://img.shields.io/badge/ONNX-Model%20Interop-81A1C1?style=for-the-badge&logo=openai&logoColor=white" alt="ONNX"></a>
 
-<b>📚 NLP (Natural Language Processing)</b><br>
+<br>
+
+<b>📚 NLP (Natural Language Processing)</b>
+
 • <b>spaCy</b> – Industrial-strength NLP library with fast tokenization and pipelines.<br>
 • <b>NLTK</b> – Educational toolkit for traditional NLP tasks and linguistics.<br>
 • <b>transformers</b> – Hugging Face library for pre-trained transformer models (e.g., BERT, GPT).<br>
-• <b>OpenAI API</b> – Access large language models like GPT for advanced NLP tasks.<br><br>
-
-<a href="https://spacy.io/" target="_blank"> 
-  <img src="https://img.shields.io/badge/spaCy-Fast%20NLP%20Pipelines-5E81AC?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"></a> 
-  
-<a href="https://www.nltk.org/" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLTK-Linguistics%20Toolkit-D8DEE9?style=for-the-badge&logo=bookstack&logoColor=white" alt="NLTK"></a> 
+• <b>OpenAI API</b> – Access large language models like GPT for advanced NLP tasks.<br>
   
 <a href="https://huggingface.co/transformers/" target="_blank"> 
   <img src="https://img.shields.io/badge/transformers-HuggingFace%20Models-D08770?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a> 
@@ -224,25 +224,36 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://platform.openai.com/docs" target="_blank"> 
   <img src="https://img.shields.io/badge/OpenAI%20API-Language%20Models-B48EAD?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
 
-<b>🖼️ Computer Vision</b><br>
+<a href="https://www.nltk.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/NLTK-Linguistics%20Toolkit-D8DEE9?style=for-the-badge&logo=bookstack&logoColor=white" alt="NLTK"></a> 
+
+<a href="https://spacy.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/spaCy-Fast%20NLP%20Pipelines-5E81AC?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"></a> 
+
+<br>
+
+<b>🖼️ Computer Vision</b>
 • <b>OpenCV</b> – Widely-used library for real-time computer vision tasks.<br>
 • <b>Detectron2</b> – Facebook AI’s modular object detection framework.<br>
 • <b>YOLOv8</b> – State-of-the-art real-time object detection by Ultralytics.<br>
-• <b>TorchVision</b> – PyTorch’s library for vision datasets, models, and transforms.<br><br>
+• <b>TorchVision</b> – PyTorch’s library for vision datasets, models, and transforms.<br>
+  
+<a href="https://github.com/facebookresearch/detectron2" target="_blank"> 
+  <img src="https://img.shields.io/badge/Detectron2-FB%20Detection%20Framework-BF616A?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"></a> 
+
+<a href="https://pytorch.org/vision/" target="_blank"> 
+  <img src="https://img.shields.io/badge/TorchVision-Vision%20Utils-81A1C1?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"></a>
+  
+<a href="https://github.com/ultralytics/ultralytics" target="_blank"> 
+  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-A3BE8C?style=for-the-badge&logo=yolov5&logoColor=white" alt="YOLOv8"></a> 
 
 <a href="https://opencv.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/OpenCV-Vision%20Library-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> 
   
-<a href="https://github.com/facebookresearch/detectron2" target="_blank"> 
-  <img src="https://img.shields.io/badge/Detectron2-FB%20Detection%20Framework-BF616A?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"></a> 
-  
-<a href="https://github.com/ultralytics/ultralytics" target="_blank"> 
-  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-A3BE8C?style=for-the-badge&logo=yolov5&logoColor=white" alt="YOLOv8"></a> 
-  
-<a href="https://pytorch.org/vision/" target="_blank"> 
-  <img src="https://img.shields.io/badge/TorchVision-Vision%20Utils-81A1C1?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"></a>
+<br>
 
-<b>🛠 Model Deployment & Serving</b><br>
+<b>🛠 Model Deployment & Serving</b>
+
 • <b>Flask</b> – Lightweight Python web framework for deploying ML models.<br>
 • <b>FastAPI</b> – Fast, modern API framework for serving ML models with auto-docs.<br>
 • <b>Streamlit</b> – Effortless way to create interactive ML web apps with Python.<br>
@@ -250,24 +261,25 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • <b>TensorFlow Serving</b> – High-performance model serving system for TensorFlow.<br>
 • <b>NVIDIA Triton</b> – Scalable inference server supporting multiple frameworks and GPUs.<br>
 
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Flask-Deploy%20Web%20Models-5E81AC?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a> 
-  
-<a href="https://fastapi.tiangolo.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/FastAPI-Production%20APIs-A3BE8C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a> 
-  
-<a href="https://streamlit.io/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-EBCB8B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a> 
-  
-<a href="https://gradio.app/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Gradio-Web%20UI%20for%20ML-B48EAD?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a> 
-  
 <a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank"> 
   <img src="https://img.shields.io/badge/TensorFlow%20Serving-Scalable%20Inference-D08770?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Serving"></a> 
   
 <a href="https://developer.nvidia.com/nvidia-triton-inference-server" target="_blank"> 
   <img src="https://img.shields.io/badge/NVIDIA%20Triton-High%20Perf%20Serving-8FBCBB?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton"></a>
 
+<a href="https://streamlit.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-EBCB8B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a> 
+
+<a href="https://flask.palletsprojects.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Flask-Deploy%20Web%20Models-5E81AC?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a> 
+  
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/FastAPI-Production%20APIs-A3BE8C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a> 
+  
+<a href="https://gradio.app/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Gradio-Web%20UI%20for%20ML-B48EAD?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a> 
+
+<br>
 
 <h3>🌟 Relationship Between AI, Machine Learning, and Data Science</h3>
 
@@ -275,17 +287,18 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 2] <b>Machine Learning </b> → Learns from data to make predictions <br>
 3] <b>Artificial Intelligence </b> → Broader concept where machines simulate human intelligence <br>
 
-<!-- Data Science -->
-<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
-  <img src="https://img.shields.io/badge/Data_Science-Insight_from_Data-5E81AC?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Data Science Badge"></a>
+<!-- Artificial Intelligence -->
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Simulates_Human_Intelligence-B48EAD?style=for-the-badge&logo=deepai&logoColor=white" alt="Artificial Intelligence Badge"></a>
 
 <!-- Machine Learning -->
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
   <img src="https://img.shields.io/badge/Machine_Learning-Learns_from_Data-D08770?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge"></a>
 
-<!-- Artificial Intelligence -->
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-Simulates_Human_Intelligence-B48EAD?style=for-the-badge&logo=deepai&logoColor=white" alt="Artificial Intelligence Badge"></a>
+<!-- Data Science -->
+<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
+  <img src="https://img.shields.io/badge/Data_Science-Insight_from_Data-5E81AC?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Data Science Badge"></a>
+
 
 
 
