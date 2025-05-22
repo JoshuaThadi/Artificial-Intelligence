@@ -312,29 +312,32 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 5] Making decisions<br>
 6] Seeing and interpreting images<br>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+<!-- 5. Making Decisions -->
+<a href="https://www.geeksforgeeks.org/decision-making-in-ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Making_Decisions-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Making Decisions"></a>
+
+<!-- 3. Learning from Experience -->
+<a href="https://ai.google/get-started/learn-ai-skills/" target="_blank">
   <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a>
 
-<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank"> 
-  <img src="https://img.shields.io/badge/Decision_Making-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Decision Making"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
-  <img src="https://img.shields.io/badge/Computer_Vision-Machine_Seeing-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLP-Understanding_Language-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>  
-
-<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank"> 
-  <img src="https://img.shields.io/badge/Speech_Recognition-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Speech Recognition"></a>
-
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank"> 
-  <img src="https://img.shields.io/badge/Problem_Solving-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Problem Solving"></a> 
-  
+<!-- 2. Understanding Language -->
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+  <img src="https://img.shields.io/badge/Understanding_Language-NLP_Core-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="Understanding Language"></a>
 
 
-<h3>📌 AI Topics to Include</h3>
+<!-- 4. Solving Problems -->
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank">
+  <img src="https://img.shields.io/badge/Solving_Problems-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Solving Problems"></a>
 
-<b>🔢 Machine Learning</b>
+<!-- 6. Seeing and Interpreting Images -->
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
+  <img src="https://img.shields.io/badge/Seeing_Images-Machine_Vision-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Seeing and Interpreting Images"></a>
+
+<!-- 1. Recognizing Speech -->
+<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank">
+  <img src="https://img.shields.io/badge/Recognizing_Speech-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Recognizing Speech"></a>
+
+<br>
 
 • Linear/Logistic Regression<br>
 • Decision Trees, Random Forest<br>
