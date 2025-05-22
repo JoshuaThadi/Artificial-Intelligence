@@ -335,11 +335,12 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <h3>📌 AI Topics to Include</h3>
 
 <b>🔢 Machine Learning</b>
+
 • Linear/Logistic Regression<br>
 • Decision Trees, Random Forest<br>
 • KNN, SVM, Naive Bayes<br>
 • Clustering (KMeans, DBSCAN)<br>
-• Dimensionality Reduction (PCA, t-SNE)<br>
+• Dimensionality Reduction (PCA, t-SNE)
 
 <a href="https://en.wikipedia.org/wiki/Decision_tree_learning" target="_blank">
   <img src="https://img.shields.io/badge/Decision_Trees_&_Random_Forest-Tree_Based_Models-81A1C1?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Decision Trees & Random Forest"></a>
@@ -359,7 +360,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   
 <br>
 
-<b>🧠 Deep Learning</b><br>
+<b>🧠 Deep Learning</b>
 • Perceptrons & MLPs<br>
 • CNNs (VGG, ResNet)<br>
 • RNNs, LSTM, GRU<br>
