@@ -337,7 +337,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank">
   <img src="https://img.shields.io/badge/Recognizing_Speech-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Recognizing Speech"></a>
 
-<br>
+<br><br>
 
 <b>🧩 Machine learning</b>
 
@@ -366,6 +366,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <br>
 
 <b>🧠 Deep Learning</b>
+
 • Perceptrons & MLPs<br>
 • CNNs (VGG, ResNet)<br>
 • RNNs, LSTM, GRU<br>
