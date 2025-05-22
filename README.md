@@ -312,23 +312,24 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 5] Making decisions<br>
 6] Seeing and interpreting images<br>
 
-<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank"> 
-  <img src="https://img.shields.io/badge/Speech_Recognition-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Speech Recognition"></a> 
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a>
+
+<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank"> 
+  <img src="https://img.shields.io/badge/Decision_Making-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Decision Making"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
+  <img src="https://img.shields.io/badge/Computer_Vision-Machine_Seeing-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLP-Understanding_Language-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> 
-  
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a> 
+  <img src="https://img.shields.io/badge/NLP-Understanding_Language-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>  
+
+<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank"> 
+  <img src="https://img.shields.io/badge/Speech_Recognition-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Speech Recognition"></a>
 
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank"> 
   <img src="https://img.shields.io/badge/Problem_Solving-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Problem Solving"></a> 
   
-<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank"> 
-  <img src="https://img.shields.io/badge/Decision_Making-Intelligent_Choice-D08770?style=for-the-badge&logo=graphql&logoColor=white" alt="Decision Making"></a> 
-  
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
-  <img src="https://img.shields.io/badge/Computer_Vision-Machine_Seeing-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a>
 
 
 <h3>📌 AI Topics to Include</h3>
@@ -342,6 +343,12 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Machine_Learning-Learning_Algorithms-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> 
+
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
+  <img src="https://img.shields.io/badge/Computer_Vision-Visual_Recognition-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
+  
+<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank"> 
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-AI_with_Agents-D08770?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
   
 <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
   <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"></a> 
@@ -349,11 +356,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
   <img src="https://img.shields.io/badge/NLP-Text_Understanding-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> 
   
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
-  <img src="https://img.shields.io/badge/Computer_Vision-Visual_Recognition-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
-  
-<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-AI_with_Agents-D08770?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
+<br>
 
 <b>🧠 Deep Learning</b><br>
 • Perceptrons & MLPs<br>
@@ -365,12 +368,12 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://en.wikipedia.org/wiki/Perceptron" target="_blank">
   <img src="https://img.shields.io/badge/Perceptrons_&_MLPs-Neural_Network_Basics-5E81AC?style=for-the-badge&logo=pytorch&logoColor=white" alt="Perceptrons & MLPs"></a>
-  
-<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
-  <img src="https://img.shields.io/badge/CNNs-(VGG,_ResNet)-4C72A4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNNs"></a>
 
 <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
   <img src="https://img.shields.io/badge/RNNs,_LSTM,_GRU-Sequence_Modeling-3B628C?style=for-the-badge&logo=pytorch&logoColor=white" alt="RNNs, LSTM, GRU"></a>
+
+<a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank">
+  <img src="https://img.shields.io/badge/Diffusion_Models-Stable_Diffusion-3E8EDE?style=for-the-badge&logo=stability.ai&logoColor=white" alt="Diffusion Models"></a>
 
 <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" target="_blank">
   <img src="https://img.shields.io/badge/Transformers-(BERT,_GPT,_ViT)-4B61D1?style=for-the-badge&logo=openai&logoColor=white" alt="Transformers"></a>
@@ -378,8 +381,10 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">
   <img src="https://img.shields.io/badge/GANs-(DCGAN,_CycleGAN)-6A5ACD?style=for-the-badge&logo=fastapi&logoColor=white" alt="GANs"></a>
 
-<a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank">
-  <img src="https://img.shields.io/badge/Diffusion_Models-Stable_Diffusion-3E8EDE?style=for-the-badge&logo=stability.ai&logoColor=white" alt="Diffusion Models"></a>
+<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
+  <img src="https://img.shields.io/badge/CNNs-(VGG,_ResNet)-4C72A4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNNs"></a>
+
+<br>
 
 
 <b>🧾 NLP</b><br>
@@ -391,17 +396,20 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://en.wikipedia.org/wiki/Tokenization_(machine_learning)" target="_blank">
   <img src="https://img.shields.io/badge/Tokenization_&_Embeddings-Word2Vec,_GloVe,_BERT-BF616A?style=for-the-badge&logo=spaCy&logoColor=white" alt="Embeddings"></a>
 
-<a href="https://en.wikipedia.org/wiki/Named-entity_recognition" target="_blank">
-  <img src="https://img.shields.io/badge/Text_Classification_&_NER-NLP_Tasks-BD5B5B?style=for-the-badge&logo=nltk&logoColor=white" alt="NER"></a>
-
 <a href="https://en.wikipedia.org/wiki/Automatic_summarization" target="_blank">
   <img src="https://img.shields.io/badge/QA_&_Summarization-Text_Understanding-B84C4C?style=for-the-badge&logo=openai&logoColor=white" alt="Summarization"></a>
 
 <a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank">
   <img src="https://img.shields.io/badge/Chatbots_&_Conversational_AI-Dialogue_Systems-B43D3D?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Chatbots"></a>
 
+<a href="https://en.wikipedia.org/wiki/Named-entity_recognition" target="_blank">
+  <img src="https://img.shields.io/badge/Text_Classification_&_NER-NLP_Tasks-BD5B5B?style=for-the-badge&logo=nltk&logoColor=white" alt="NER"></a>
 
-<b>🖼️ Computer Vision</b><br>
+<br>
+
+
+<b>🖼️ Computer Vision</b>
+
 • Image Preprocessing<br>
 • Object Detection (YOLO, SSD)<br>
 • Segmentation (U-Net, Mask R-CNN)<br>
@@ -413,11 +421,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://en.wikipedia.org/wiki/Object_detection" target="_blank">
   <img src="https://img.shields.io/badge/Object_Detection-(YOLO,_SSD)-5A4FCF?style=for-the-badge&logo=yolo&logoColor=white" alt="Object Detection"></a>
 
+<a href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">
+  <img src="https://img.shields.io/badge/OCR-(Tesseract,_EasyOCR)-73C2FB?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR"></a>
+
 <a href="https://en.wikipedia.org/wiki/Image_segmentation" target="_blank">
   <img src="https://img.shields.io/badge/Segmentation-(U_Net,_Mask,R_CNN)-6050DC?style=for-the-badge&logo=segmentation-fault&logoColor=white" alt="Segmentation"></a>
 
-<a href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">
-  <img src="https://img.shields.io/badge/OCR-(Tesseract,_EasyOCR)-73C2FB?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR"></a>
+<br>
 
 
 <b>🎮 Reinforcement Learning</b><br>
@@ -436,25 +446,29 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 
 <h3>📂 Dataset Sources</h3>
+
 • Kaggle<br>
 • Hugging Face Datasets<br>
 • Papers with Code<br>
 • UCI ML Repository<br>
-
-<a href="https://www.kaggle.com/datasets" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Datasets-FFA857?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  
+<a href="https://paperswithcode.com/datasets" target="_blank">
+  <img src="https://img.shields.io/badge/PaperswithCode-Datasets-FFB86C?style=for-the-badge&logo=paperswithcode&logoColor=white" alt="Papers with Code"></a>
 
 <a href="https://huggingface.co/datasets" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-Datasets-F2B272?style=for-the-badge&logo=huggingface&logoColor=white" alt="HF Datasets"></a>
-
-<a href="https://paperswithcode.com/datasets" target="_blank">
-  <img src="https://img.shields.io/badge/PaperswithCode-Datasets-FFB86C?style=for-the-badge&logo=paperswithcode&logoColor=white" alt="Papers with Code"></a>
 
 <a href="https://archive.ics.uci.edu/ml/index.php" target="_blank">
   <img src="https://img.shields.io/badge/UCI-ML_Repository-EFAB6E?style=for-the-badge&logo=databricks&logoColor=white" alt="UCI"></a>
 
 
+<a href="https://www.kaggle.com/datasets" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Datasets-FFA857?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+
+<br>
+
 <h3>📚 Learning Resources</h3>
+
 • DeepLearning.ai<br>
 • Stanford CS229: Machine Learning<br>
 • fast.ai Courses<br>
@@ -467,14 +481,16 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 <a href="https://cs229.stanford.edu/" target="_blank">
   <img src="https://img.shields.io/badge/Stanford_CS229-ML_Theory-A48CB4?style=for-the-badge&logo=stanford&logoColor=white" alt="CS229"></a>
 
-<a href="https://www.fast.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/fast.ai-Practical_DL-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="fast.ai"></a>
-
 <a href="https://mitibmwatsonailab.mit.edu/research/projects/mit-deep-learning-6-s191/" target="_blank">
   <img src="https://img.shields.io/badge/MIT_6.S191-Deep_Learning-D8BFD8?style=for-the-badge&logo=mit&logoColor=white" alt="MIT DL"></a>
 
+<a href="https://www.fast.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/fast.ai-Practical_DL-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="fast.ai"></a>
+
 <a href="https://github.com/openai/openai-cookbook" target="_blank">
   <img src="https://img.shields.io/badge/OpenAI-Cookbook-FCFACD?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Cookbook"></a>
+
+<br>
 
 <h3>📌 Applications of AI </h3>
 
