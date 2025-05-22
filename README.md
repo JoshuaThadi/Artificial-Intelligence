@@ -339,6 +339,8 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <br>
 
+<b>🧩 Machine learning</b>
+
 • Linear/Logistic Regression<br>
 • Decision Trees, Random Forest<br>
 • KNN, SVM, Naive Bayes<br>
