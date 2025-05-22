@@ -334,27 +334,28 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <h3>📌 AI Topics to Include</h3>
 
-<b>🔢 Machine Learning</b><br>
+<b>🔢 Machine Learning</b>
 • Linear/Logistic Regression<br>
 • Decision Trees, Random Forest<br>
 • KNN, SVM, Naive Bayes<br>
 • Clustering (KMeans, DBSCAN)<br>
 • Dimensionality Reduction (PCA, t-SNE)<br>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Machine_Learning-Learning_Algorithms-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Decision_tree_learning" target="_blank">
+  <img src="https://img.shields.io/badge/Decision_Trees_&_Random_Forest-Tree_Based_Models-81A1C1?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Decision Trees & Random Forest"></a>
 
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
-  <img src="https://img.shields.io/badge/Computer_Vision-Visual_Recognition-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
-  
-<a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-AI_with_Agents-D08770?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
-  
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
-  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-BF616A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"></a> 
-  
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
-  <img src="https://img.shields.io/badge/NLP-Text_Understanding-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a> 
+<a href="https://en.wikipedia.org/wiki/Linear_regression" target="_blank">
+  <img src="https://img.shields.io/badge/Linear/Logistic_Regression-Predictive_Models-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Linear/Logistic Regression"></a>
+
+<a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">
+  <img src="https://img.shields.io/badge/KNN_/_SVM_/_Naive_Bayes-Classification_Models-88C0D0?style=for-the-badge&logo=python&logoColor=white" alt="KNN SVM Naive Bayes"></a>
+
+<a href="https://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank">
+  <img src="https://img.shields.io/badge/Dimensionality_Reduction-PCA_/_tSNE-B48EAD?style=for-the-badge&logo=python&logoColor=white" alt="Dimensionality Reduction"></a>
+
+<a href="https://en.wikipedia.org/wiki/Cluster_analysis" target="_blank">
+  <img src="https://img.shields.io/badge/Clustering-KMeans_/_DBSCAN-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Clustering"></a>
+
   
 <br>
 
