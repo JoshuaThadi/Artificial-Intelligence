@@ -321,20 +321,20 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
   <img src="https://img.shields.io/badge/Learning_from_Experience-ML_Grounded-A3BE8C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning from Experience"></a>
 
 <!-- 2. Understanding Language -->
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+<a href="https://www.ibm.com/think/topics/natural-language-processing" target="_blank">
   <img src="https://img.shields.io/badge/Understanding_Language-NLP_Core-BF616A?style=for-the-badge&logo=spacy&logoColor=white" alt="Understanding Language"></a>
 
 
 <!-- 4. Solving Problems -->
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence#Problem_solving" target="_blank">
+<a href="https://www.geeksforgeeks.org/problem-solving-in-artificial-intelligence/" target="_blank">
   <img src="https://img.shields.io/badge/Solving_Problems-AI_Reasoning-88C0D0?style=for-the-badge&logo=prolog&logoColor=white" alt="Solving Problems"></a>
 
 <!-- 6. Seeing and Interpreting Images -->
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
+<a href="https://cloud.google.com/vision?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Seeing_Images-Machine_Vision-B48EAD?style=for-the-badge&logo=opencv&logoColor=white" alt="Seeing and Interpreting Images"></a>
 
 <!-- 1. Recognizing Speech -->
-<a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank">
+<a href="https://www.ibm.com/think/topics/speech-recognition" target="_blank">
   <img src="https://img.shields.io/badge/Recognizing_Speech-AI_Hearing-5E81AC?style=for-the-badge&logo=kaldi&logoColor=white" alt="Recognizing Speech"></a>
 
 <br><br>
@@ -347,19 +347,19 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • Clustering (KMeans, DBSCAN)<br>
 • Dimensionality Reduction (PCA, t-SNE)
 
-<a href="https://en.wikipedia.org/wiki/Decision_tree_learning" target="_blank">
+<a href="https://www.geeksforgeeks.org/difference-between-random-forest-and-decision-tree/" target="_blank">
   <img src="https://img.shields.io/badge/Decision_Trees_&_Random_Forest-Tree_Based_Models-81A1C1?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Decision Trees & Random Forest"></a>
 
-<a href="https://en.wikipedia.org/wiki/Linear_regression" target="_blank">
+<a href="https://www.geeksforgeeks.org/ml-linear-regression-vs-logistic-regression/" target="_blank">
   <img src="https://img.shields.io/badge/Linear/Logistic_Regression-Predictive_Models-5E81AC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Linear/Logistic Regression"></a>
 
-<a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">
+<a href="https://datascienceunwind.wordpress.com/2019/09/19/supervised-learning-algorithms/" target="_blank">
   <img src="https://img.shields.io/badge/KNN_/_SVM_/_Naive_Bayes-Classification_Models-88C0D0?style=for-the-badge&logo=python&logoColor=white" alt="KNN SVM Naive Bayes"></a>
 
-<a href="https://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank">
+<a href="https://www.ibm.com/think/topics/dimensionality-reduction" target="_blank">
   <img src="https://img.shields.io/badge/Dimensionality_Reduction-PCA_/_tSNE-B48EAD?style=for-the-badge&logo=python&logoColor=white" alt="Dimensionality Reduction"></a>
 
-<a href="https://en.wikipedia.org/wiki/Cluster_analysis" target="_blank">
+<a href="https://developers.google.com/machine-learning/clustering/overview" target="_blank">
   <img src="https://img.shields.io/badge/Clustering-KMeans_/_DBSCAN-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Clustering"></a>
 
   
@@ -374,22 +374,22 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • GANs (DCGAN, CycleGAN)<br>
 • Diffusion Models (Stable Diffusion)<br>
 
-<a href="https://en.wikipedia.org/wiki/Perceptron" target="_blank">
+<a href="https://www.geeksforgeeks.org/multi-layer-perceptron-learning-in-tensorflow/" target="_blank">
   <img src="https://img.shields.io/badge/Perceptrons_&_MLPs-Neural_Network_Basics-5E81AC?style=for-the-badge&logo=pytorch&logoColor=white" alt="Perceptrons & MLPs"></a>
 
-<a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
+<a href="https://medium.com/@hassaanidrees7/rnn-vs-lstm-vs-gru-a-comprehensive-guide-to-sequential-data-modeling-03aab16647bb" target="_blank">
   <img src="https://img.shields.io/badge/RNNs,_LSTM,_GRU-Sequence_Modeling-3B628C?style=for-the-badge&logo=pytorch&logoColor=white" alt="RNNs, LSTM, GRU"></a>
 
-<a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank">
+<a href="https://www.ibm.com/think/topics/diffusion-models" target="_blank">
   <img src="https://img.shields.io/badge/Diffusion_Models-Stable_Diffusion-3E8EDE?style=for-the-badge&logo=stability.ai&logoColor=white" alt="Diffusion Models"></a>
 
-<a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" target="_blank">
+<a href="https://www.datacamp.com/tutorial/how-transformers-work" target="_blank">
   <img src="https://img.shields.io/badge/Transformers-(BERT,_GPT,_ViT)-4B61D1?style=for-the-badge&logo=openai&logoColor=white" alt="Transformers"></a>
 
-<a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">
+<a href="https://www.geeksforgeeks.org/generative-adversarial-network-gan/" target="_blank">
   <img src="https://img.shields.io/badge/GANs-(DCGAN,_CycleGAN)-6A5ACD?style=for-the-badge&logo=fastapi&logoColor=white" alt="GANs"></a>
 
-<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
+<a href="https://www.ibm.com/think/topics/convolutional-neural-networks" target="_blank">
   <img src="https://img.shields.io/badge/CNNs-(VGG,_ResNet)-4C72A4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNNs"></a>
 
 <br>
@@ -401,16 +401,16 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • Question Answering, Summarization<br>
 • Chatbots and Conversational AI<br>
 
-<a href="https://en.wikipedia.org/wiki/Tokenization_(machine_learning)" target="_blank">
+<a href="https://www.linkedin.com/pulse/understanding-embeddings-tokenization-natural-language-lucca-sehn-gl6jf/" target="_blank">
   <img src="https://img.shields.io/badge/Tokenization_&_Embeddings-Word2Vec,_GloVe,_BERT-BF616A?style=for-the-badge&logo=spaCy&logoColor=white" alt="Embeddings"></a>
 
-<a href="https://en.wikipedia.org/wiki/Automatic_summarization" target="_blank">
+<a href="https://huggingface.co/learn/llm-course/en/chapter7/7" target="_blank">
   <img src="https://img.shields.io/badge/QA_&_Summarization-Text_Understanding-B84C4C?style=for-the-badge&logo=openai&logoColor=white" alt="Summarization"></a>
 
-<a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank">
+<a href="https://www.ibm.com/think/topics/conversational-ai" target="_blank">
   <img src="https://img.shields.io/badge/Chatbots_&_Conversational_AI-Dialogue_Systems-B43D3D?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Chatbots"></a>
 
-<a href="https://en.wikipedia.org/wiki/Named-entity_recognition" target="_blank">
+<a href="https://www.ibm.com/think/topics/named-entity-recognition" target="_blank">
   <img src="https://img.shields.io/badge/Text_Classification_&_NER-NLP_Tasks-BD5B5B?style=for-the-badge&logo=nltk&logoColor=white" alt="NER"></a>
 
 <br>
@@ -423,16 +423,16 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • Segmentation (U-Net, Mask R-CNN)<br>
 • OCR (Tesseract, EasyOCR)<br>
 
-<a href="https://en.wikipedia.org/wiki/Image_processing" target="_blank">
+<a href="https://www.geeksforgeeks.org/ai-in-image-processing/" target="_blank">
   <img src="https://img.shields.io/badge/Image_Preprocessing-CV_Techniques-4C566A?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Preprocessing"></a>
 
-<a href="https://en.wikipedia.org/wiki/Object_detection" target="_blank">
+<a href="https://www.ibm.com/think/topics/object-detection" target="_blank">
   <img src="https://img.shields.io/badge/Object_Detection-(YOLO,_SSD)-5A4FCF?style=for-the-badge&logo=yolo&logoColor=white" alt="Object Detection"></a>
 
-<a href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">
+<a href="https://www.ibm.com/think/topics/optical-character-recognition" target="_blank">
   <img src="https://img.shields.io/badge/OCR-(Tesseract,_EasyOCR)-73C2FB?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR"></a>
 
-<a href="https://en.wikipedia.org/wiki/Image_segmentation" target="_blank">
+<a href="https://www.ibm.com/think/topics/image-segmentation" target="_blank">
   <img src="https://img.shields.io/badge/Segmentation-(U_Net,_Mask,R_CNN)-6050DC?style=for-the-badge&logo=segmentation-fault&logoColor=white" alt="Segmentation"></a>
 
 <br>
@@ -443,13 +443,13 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 • Policy-Based Methods (REINFORCE, PPO)<br>
 • Environments (OpenAI Gym, PettingZoo)<br>
 
-<a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank">
+<a href="https://www.geeksforgeeks.org/deep-q-learning/" target="_blank">
   <img src="https://img.shields.io/badge/Value_Based_Methods-(Q_learning,_DQN)-A3BE8C?style=for-the-badge&logo=openai&logoColor=white" alt="Q-learning"></a>
 
-<a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html" target="_blank">
+<a href="https://www.geeksforgeeks.org/a-brief-introduction-to-proximal-policy-optimization/" target="_blank">
   <img src="https://img.shields.io/badge/Policy_Based_Methods-(REINFORCE,_PPO)-8FBC8F?style=for-the-badge&logo=ray&logoColor=white" alt="PPO"></a>
 
-<a href="https://gym.openai.com/" target="_blank">
+<a href="https://www.appliedaicourse.com/blog/types-of-environment-in-ai/" target="_blank">
   <img src="https://img.shields.io/badge/Environments-(Gym,_PettingZoo)-88C0D0?style=for-the-badge&logo=gym&logoColor=white" alt="RL Environments"></a>
 
 
