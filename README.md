@@ -40,9 +40,6 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" width="50" height="50" alt="Scikit‑Learn"></a>
-
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"></a>
 <a href="https://pandas.pydata.org/" target="_blank">
@@ -52,6 +49,9 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="40"></a>
 
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" width="50" height="50" alt="Scikit‑Learn"></a>
 <a href="https://opencv.org/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTu1OmEFc5Dx8-_lQv555XmUisLUI1S0DK-w&s" width="50" height="50" alt="OpenCV"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -60,13 +60,13 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" width="50" height="50" alt="Anaconda"></a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="50" height="50" alt="Flask"></a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
   
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" alt="Git"></a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50" height="50" alt="VS Code"></a>
 
