@@ -67,8 +67,8 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" alt="Git"></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50" height="50" alt="VS Code"></a>
+<!--<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50" height="50" alt="VS Code"></a>-->
 
 
 
