@@ -26,6 +26,16 @@ Artificial Intelligence (AI) is the simulation of human intelligence processes b
 >The Artificial Intelligence project features intelligent chatbots, voice assistants, and machine learning models. It includes deep learning architectures, NLP applications, and tools for ? building and testing AI systems. The hub also showcases trained models and interactive demos for hands-on learning and experimentation.
 
 
+### Use Cases
+The AI supports use cases like AI chat assistants for support, education, or general interaction. It enables smart voice interfaces, data analysis, prediction models, and real-time AI applications like API-based chatbots. It’s also a valuable resource for learning and research in AI and machine learning.
+
+<div>
+ <p>
+  
+ </p>
+</div>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,docker,git,github,vscode,jupyter" />
+
 ### 🚀 AI tools and APIs
 AI tools and APIs are revolutionizing industries by enabling developers to integrate powerful artificial intelligence capabilities into their applications. With easy integration through APIs, companies can leverage cutting-edge AI technology without extensive expertise.
 
@@ -97,17 +107,8 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 
 
 
-### Use Cases
-The AI supports use cases like AI chat assistants for support, education, or general interaction. It enables smart voice interfaces, data analysis, prediction models, and real-time AI applications like API-based chatbots. It’s also a valuable resource for learning and research in AI and machine learning.
-
-<div>
- <p>
-  
- </p>
-</div>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,netlify,sklearn,bash,vscode" /><br>
-
+<br>
+<br>
 <br>
 
 >[!IMPORTANT]
