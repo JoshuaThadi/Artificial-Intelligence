@@ -40,8 +40,6 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"></a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="40"></a>
 <a href="https://numpy.org/" target="_blank">
@@ -62,7 +60,9 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="50" height="50" alt="Flask"></a>
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
-  
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"></a>  
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
