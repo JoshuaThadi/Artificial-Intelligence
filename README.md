@@ -26,15 +26,54 @@ Artificial Intelligence (AI) is the simulation of human intelligence processes b
 >The Artificial Intelligence project features intelligent chatbots, voice assistants, and machine learning models. It includes deep learning architectures, NLP applications, and tools for ? building and testing AI systems. The hub also showcases trained models and interactive demos for hands-on learning and experimentation.
 
 
-### Use Cases
-The AI supports use cases like AI chat assistants for support, education, or general interaction. It enables smart voice interfaces, data analysis, prediction models, and real-time AI applications like API-based chatbots. It’s also a valuable resource for learning and research in AI and machine learning.
+<!--### Use Cases
+The AI supports use cases like AI chat assistants for support, education, or general interaction. It enables smart voice interfaces, data analysis, prediction models, and real-time AI applications like API-based chatbots. It’s also a valuable resource for learning and research in AI and machine learning.-->
 
-<div>
- <p>
+
+### Technologies Used
+This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for data processing and machine learning. Deep learning is handled using TensorFlow and PyTorch, while NLP tasks use NLTK, SpaCy, and Hugging Face Transformers. It also includes speech-to-text and text-to-speech using Vosk, gTTS, and pyttsx3, and integrates APIs like Google Gemini and OpenAI GPT for extended functionality.
+
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50" alt="Python"></a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"></a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" width="50" height="50" alt="Scikit‑Learn"></a>
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="40"></a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="40"></a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="40"></a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTu1OmEFc5Dx8-_lQv555XmUisLUI1S0DK-w&s" width="50" height="50" alt="OpenCV"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" width="50" height="50" alt="FastAPI"></a>
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" width="50" height="50" alt="Anaconda"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="50" height="50" alt="Flask"></a>
   
- </p>
-</div>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,docker,git,github,vscode,jupyter" />
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" alt="Git"></a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50" height="50" alt="VS Code"></a>
+
+
+
+<br>
+
 
 ### 🚀 AI tools and APIs
 AI tools and APIs are revolutionizing industries by enabling developers to integrate powerful artificial intelligence capabilities into their applications. With easy integration through APIs, companies can leverage cutting-edge AI technology without extensive expertise.
@@ -84,12 +123,6 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 <a href="https://aws.amazon.com/what-is/gan/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerGEWZxlTG4jra5dMGs4mUz8DWvZmuIEkoQ&s" width="50" height="50" alt="IBM Logo" /></a>
 
-
-### Technologies Used
-This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for data processing and machine learning. Deep learning is handled using TensorFlow and PyTorch, while NLP tasks use NLTK, SpaCy, and Hugging Face Transformers. It also includes speech-to-text and text-to-speech using Vosk, gTTS, and pyttsx3, and integrates APIs like Google Gemini and OpenAI GPT for extended functionality.
-
-
-
 <a href="https://claude.ai/">
   <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Claude/claude-logo.png" width="50" height="50" alt="Claude AI Logo" /></a>
 
@@ -104,8 +137,6 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 
 <a href="https://chat.deepseek.com/">
   <img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-03.png" width="50" height="50" alt="Ollama AI Logo" /></a>
-
-
 
 <br>
 <br>
