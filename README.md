@@ -88,7 +88,7 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzuWSxupu8H8k9WaCtWrHtq-esNrFr_HgzzqHwtLcB58ll70H9BoSICa8FQeli47_3k&usqp=CAU" width="50" height="50" alt="Icon"></a>
 
 <a href="https://www.blackbox.ai/" target="_blank">
-  <img src="https://static.thenounproject.com/png/300128-200.png" alt="Blackbox AI" width="50" height="50"></a>
+  <img src="https://cdn-public.softwarereviews.com/production/logos/offerings/11686/original/BlackBoxAI_logo.png?1709079573" alt="Blackbox AI" width="50" height="50"></a>
 
 <a href="https://www.cursor.com/">
   <img src="https://custom.typingmind.com/assets/models/cursor.png" alt="Cursor Icon" width="50" height="50" /></a>
