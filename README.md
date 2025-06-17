@@ -41,11 +41,11 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="40"></a>
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="50"></a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="40"></a>
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="50"></a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="40"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50"></a>
 
 
 <a href="https://scikit-learn.org/" target="_blank">
@@ -62,7 +62,7 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
 
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"></a>  
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50"></a>  
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
