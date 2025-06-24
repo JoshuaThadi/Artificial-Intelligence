@@ -215,15 +215,15 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
   - Ollama API
   - deepseek API
 
----
 
-<img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/deepseek-botimg.png">
+
+<!--<img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/deepseek-botimg.png">
 <p>
  This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers.
 </p>
 <a href="https://deepseek-bot.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
-</a>
+</a>-->
 
 
 
