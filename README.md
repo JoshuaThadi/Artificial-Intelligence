@@ -1,4 +1,4 @@
-<img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png?raw=true" alt="Banner Image" width="100%">
+<img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png" alt="Banner Image" width="100%">
 
 
 <h1>★ Artificial Intelligence</h1>
