@@ -220,6 +220,7 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 <img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/deepseek-botimg.png">
 <p>
  This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers.
+  ⚠️ **Note:** If the chatbot is not responding, the API key might be expired or invalid.
 </p>
 <a href="https://deepseek-bot.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
