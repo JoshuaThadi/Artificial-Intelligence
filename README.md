@@ -40,12 +40,12 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
-<!--<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="10"></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img width="50px" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/pandas.png" alt="Pandas"></a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="10px"></a>
+  <img width="50px" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/numpy.svg" alt="NumPy"></a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50"></a>-->
+  <img width="50px" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/matplot.png" alt="Matplotlib"></a>
 
 
 <a href="https://scikit-learn.org/" target="_blank">
@@ -61,8 +61,8 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
 
-<!--<a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50"></a>-->
+<a href="https://huggingface.co/" target="_blank">
+  <img width="50px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face"></a>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
@@ -103,10 +103,10 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
   <img src="https://images.prismic.io/sacra/Z37NF5bqstJ99MG0_bolt-new-logo.jpg?auto=format,compress" alt="Bolt New Icon" width="50" height="50"  /></a>
 
 <a href="https://replit.com/" target="_blank">
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="50" height="50" /></a>
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="40" height="40" /></a>
 
 <a href="https://v0.dev/" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="50" height="50" /></a>
+  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="60" height="60" /></a>
 
 ### Features
 This repository features AI chatbots using models like Gemini and GPT, along with real-time voice assistants powered by speech-to-text and text-to-speech. It includes machine learning algorithms for regression, classification, and clustering, as well as deep learning models like CNNs, RNNs, and GANs. It also offers NLP tools for translation, sentiment analysis, and tokenization, plus real-time API integrations for time, weather, and finance.
