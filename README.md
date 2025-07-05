@@ -40,12 +40,12 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="PyTorch"></a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="50"></a>
+<!--<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" height="10"></a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="50"></a>
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="10px"></a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50"></a>-->
 
 
 <a href="https://scikit-learn.org/" target="_blank">
@@ -61,8 +61,8 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 <a href="https://github.com/" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"></a>
 
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50"></a>  
+<!--<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50"></a>-->
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50" alt="Docker"></a>
 <a href="https://git-scm.com/" target="_blank">
@@ -112,10 +112,10 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
 This repository features AI chatbots using models like Gemini and GPT, along with real-time voice assistants powered by speech-to-text and text-to-speech. It includes machine learning algorithms for regression, classification, and clustering, as well as deep learning models like CNNs, RNNs, and GANs. It also offers NLP tools for translation, sentiment analysis, and tokenization, plus real-time API integrations for time, weather, and finance.
 
 <a href="https://www.ibm.com/think/topics/convolutional-neural-networks">
-  <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="50" height="50" alt="IBM Logo" /></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDMTkJIRNFK0--6lwfeVrGC3pIdJ_IRiF6w&s" width="50" height="50" alt="IBM Logo" /></a>
 
 <a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="50" height="50" alt="Stanford Logo" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="30" height="30" alt="Stanford Logo" /></a>
 
 <a href="https://www.ibm.com/think/topics/recurrent-neural-networks">
   <img src="https://images.icon-icons.com/2699/PNG/512/ibm_cloud_logo_icon_169019.png" width="50" height="50" alt="IBM Logo" /></a>
