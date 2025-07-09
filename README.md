@@ -115,7 +115,7 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDMTkJIRNFK0--6lwfeVrGC3pIdJ_IRiF6w&s" width="50" height="50" alt="IBM Logo" /></a>
 
 <a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="30" height="30" alt="Stanford Logo" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="50" height="50" alt="Stanford Logo" /></a>
 
 <a href="https://www.ibm.com/think/topics/recurrent-neural-networks">
   <img src="https://images.icon-icons.com/2699/PNG/512/ibm_cloud_logo_icon_169019.png" width="50" height="50" alt="IBM Logo" /></a>
