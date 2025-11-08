@@ -29,8 +29,11 @@ Artificial Intelligence (AI) is the simulation of human intelligence processes b
 <!--### Use Cases
 The AI supports use cases like AI chat assistants for support, education, or general interaction. It enables smart voice interfaces, data analysis, prediction models, and real-time AI applications like API-based chatbots. It’s also a valuable resource for learning and research in AI and machine learning.-->
 
-
+<details>
+  <summary>Features - details</summary>
+  
 ### Technologies Used
+  
 This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for data processing and machine learning. Deep learning is handled using TensorFlow and PyTorch, while NLP tasks use NLTK, SpaCy, and Hugging Face Transformers. It also includes speech-to-text and text-to-speech using Vosk, gTTS, and pyttsx3, and integrates APIs like Google Gemini and OpenAI GPT for extended functionality.
 
 
@@ -142,6 +145,8 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 <br>
 <br>
 
+</details>
+
 >[!IMPORTANT]
 >## AI Bots & Voice Assistants projects
 >**AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
@@ -228,14 +233,12 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge">
 </a>
 
-
-
- 
----
-
+<br>
 <br>
 
-<h2>❃ Artifical Intelligence Resources</h2>
+<details>
+  <summary>Artifical intelligence - resources</summary>
+  <h2>❃ Artifical Intelligence Resources</h2>
 
 <h3>🧩 Core Fields Within AI </h3>
 
@@ -939,6 +942,7 @@ Surpasses human intelligence in all aspects, A hypothetical future concept.<br>
 
 <a href="https://www.tensorflow.org/tutorials/generative/style_transfer" target="_blank">
   <img src="https://img.shields.io/badge/Neural%20Style%20Transfer-AI%20Game%20Art-BF616A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Style Transfer"></a>
+</details>
 
 
 ---
