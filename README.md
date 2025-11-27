@@ -106,7 +106,7 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
   <img src="https://images.prismic.io/sacra/Z37NF5bqstJ99MG0_bolt-new-logo.jpg?auto=format,compress" alt="Bolt New Icon" width="50" height="50"  /></a>
 
 <a href="https://replit.com/" target="_blank">
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20181734/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="Replit Icon" width="50" height="50" /></a>
+  <img src="assets/replit icon.png" alt="Replit Icon" width="50" height="50" /></a>
 
 <a href="https://v0.dev/" target="_blank">
   <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="65" height="70" /></a>
@@ -136,7 +136,7 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-openai-icon-download-in-svg-png-gif-file-formats--gym-toolkit-algorithm-reinforcement-ai-artificial-intelligence-color-pack-science-technology-icons-1290809.png?f=webp" width="50" height="50" alt="OpenAI Logo" /></a>
 
 <a href="https://ollama.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP8OyDZPXzErYUs_ATzEzRDMigkJB_iEltA&s" width="50" height="50" alt="Ollama AI Logo" /></a>
+  <img src="assets/ollama.png" width="50" height="50" alt="Ollama AI Logo" /></a>
 
 <a href="https://chat.deepseek.com/">
   <img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-03.png" width="50" height="50" alt="Ollama AI Logo" /></a>
