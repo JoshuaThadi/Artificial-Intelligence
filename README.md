@@ -1989,5 +1989,8 @@ Large Concept Models (LCMs) are generalist AI systems trained on multimodal and 
 
 ---
 
-⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+<div align="center">
+  ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi.</strong>
+</div>
+
 </div>
