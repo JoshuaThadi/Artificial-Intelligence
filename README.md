@@ -243,6 +243,8 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 
 ---
 
+<h1>Explore For more Information</h1>
+
 <details>
   <summary>Artifical intelligence - resources</summary>
   <h2>❃ Artifical Intelligence Resources</h2>
