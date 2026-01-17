@@ -21,7 +21,7 @@ Artificial Intelligence (AI) is the simulation of human intelligence processes b
   </p>
 </div>
 
->[!IMPORTANT]
+>[NOTE]
 >## ⚙️ Artificial Intelligence Projects
 >The Artificial Intelligence project features intelligent chatbots, voice assistants, and machine learning models. It includes deep learning architectures, NLP applications, and tools for ? building and testing AI systems. The hub also showcases trained models and interactive demos for hands-on learning and experimentation.
 
