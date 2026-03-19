@@ -255,8 +255,9 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
   </div>
   
   <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20Engineering/study-lockin" target="_blank">
-    <img src="https://img.shields.io/badge/Study--LockIn-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="Study Lock-In Badge" />
-  </a>
+    <img src="https://img.shields.io/badge/Study--LockIn-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="Study Lock-In Badge" /></a>
+  <a href="https://study-lockin.bolt.host/" target="_blank">
+    <img src="https://img.shields.io/badge/Study--LockIn-website-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="Study Lock-In Badge" /></a>
 
 
 </details>
