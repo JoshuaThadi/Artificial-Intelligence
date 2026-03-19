@@ -246,35 +246,17 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 <details>
   <summary>Project - AI engineering projects</summary>
 
+  <img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/la.png" />
   <h2>Study-Lockin : AI personalized study planner project</h2>
   Lock-In AI is a full-stack web application designed to help students plan, manage, and optimize their study routines. It dynamically generates personalized study plans based on user inputs such as subjects, available time,   exam dates, and progress. The system adapts over time, helping users stay consistent and focused.
 
-  [![Study Lock-In](https://img.shields.io/badge/Study--LockIn-3A3A3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20Engineering/study-lockin)
-  
-  <details>
-    <summary>Project Overview</summary>
-
-  <div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <div style="flex: 1 1 45%; min-width: 300px;">
-        <img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/la.png" />
-      </div>
-      <div style="flex: 1 1 45%; min-width: 300px;">
-        <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/crep.png" />
-      </div>
-      <div style="flex: 1 1 45%; min-width: 300px;">
-        <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/dabo.png" />
-      </div>
-      <div style="flex: 1 1 45%; min-width: 300px;">
-        <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/plapa.png" width="100%" />
-      </div>
-      <div style="flex: 1 1 45%; min-width: 300px;">
-        <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/Artifical%20Inteligence%20Projects/AI%20Engineering/assets/plapa2.png" width="100%" />
-      </div>
-    </div>
+  <div>
+    <p> </p>
   </div>
-    
-  </details>
+  
+  <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20Engineering/study-lockin" target="_blank">
+    <img src="https://img.shields.io/badge/Study--LockIn-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="Study Lock-In Badge" />
+  </a>
 
 
 </details>
