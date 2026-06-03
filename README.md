@@ -97,7 +97,7 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
   <img src="https://custom.typingmind.com/assets/models/cursor.png" alt="Cursor Icon" width="50" height="50" /></a>
 
 <a href="https://zed.dev/" target="_blank">
-  <img src="https://zed.dev/_next/static/media/logo_icon.d67dc948.webp" alt="Zed Icon" width="50" height="50"/></a>
+  <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/zed.png" alt="Zed Icon" width="50" height="50"/></a>
 
 <a href="https://windsurf.com/editor" target="_blank">
   <img src="https://ph-files.imgix.net/cc02a582-1cb1-43d5-a5f3-9fca95372576.png?auto=format" alt="Windsurf Editor Icon" width="50" height="50" /></a>
@@ -109,7 +109,7 @@ AI tools and APIs are revolutionizing industries by enabling developers to integ
   <img src="assets/replit icon.png" alt="Replit Icon" width="50" height="50" /></a>
 
 <a href="https://v0.dev/" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="65" height="70" /></a>
+  <img src="https://logowik.com/content/uploads/images/v0-ai1721420586.logowik.com.webp" alt="V0 Icon" width="55" height="50" /></a>
 
 ### Features
 This repository features AI chatbots using models like Gemini and GPT, along with real-time voice assistants powered by speech-to-text and text-to-speech. It includes machine learning algorithms for regression, classification, and clustering, as well as deep learning models like CNNs, RNNs, and GANs. It also offers NLP tools for translation, sentiment analysis, and tokenization, plus real-time API integrations for time, weather, and finance.
