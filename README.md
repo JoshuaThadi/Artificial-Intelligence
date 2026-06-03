@@ -154,7 +154,7 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 **Master Artificial Intelligence from foundations to advanced deployment with this comprehensive 10-part curriculum. You will progress from mastering Prompt Engineering and Generative AI to building autonomous Agentic AI and advanced Large Language Models. The course delivers deep technical mastery in reinforcement learning, covering everything from fundamental Q-Learning to complex algorithms like Deep Convolutional Q-Learning, A3C, PPO, and SAC.**
 
 <details>
-  <summary><a href="#">Prompt Engineering</a></summary>
+  <summary><a href="https://www.ibm.com/think/topics/prompt-engineering">Prompt Engineering</a></summary>
 
 ### 1] Prompt Engineering
 
@@ -171,7 +171,7 @@ Common Prompt Engineering Techniques:-
 
 <b>Summary:</b> Prompt Engineering is a fundamental skill in AI Engineering and Generative AI that focuses on creating effective prompts to improve the quality, accuracy, and reliability of AI-generated responses.
 
-<img src="">
+<img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/partyrock.png">
 <b>PartyRock</b> is a free, hands-on, no-code playground by Amazon Web Services (AWS) that allows users to build generative AI applications using natural language prompts. Powered by Amazon Bedrock, it lets anyone experiment with AI, learn prompt engineering, and share interactive apps without needing an AWS account or coding skills.
 
 <b>This is the live shared link of the project build through prompt in PartyRock : <a href="https://partyrock.aws/u/Joshtheboss/Fp52U1JGL/Corporate-Language-Mastery-Program">Corporate Language Mastery Program</a></b>
