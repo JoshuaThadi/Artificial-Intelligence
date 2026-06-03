@@ -78,6 +78,7 @@ This project uses Python with libraries like NumPy, Pandas, and Scikit-Learn for
 <br>
 
 
+
 ### 🚀 AI tools and APIs
 AI tools and APIs are revolutionizing industries by enabling developers to integrate powerful artificial intelligence capabilities into their applications. With easy integration through APIs, companies can leverage cutting-edge AI technology without extensive expertise.
 
@@ -148,6 +149,41 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 </details>
 
 
+
+## Artificial Intelligence A-Z
+**Master Artificial Intelligence from foundations to advanced deployment with this comprehensive 10-part curriculum. You will progress from mastering Prompt Engineering and Generative AI to building autonomous Agentic AI and advanced Large Language Models. The course delivers deep technical mastery in reinforcement learning, covering everything from fundamental Q-Learning to complex algorithms like Deep Convolutional Q-Learning, A3C, PPO, and SAC.**
+
+<details>
+  <summary><a href="#">Prompt Engineering</a></summary>
+
+### 1] Prompt Engineering
+
+Prompt Engineering is the process of designing and optimizing prompts (instructions) to guide AI models toward producing accurate, relevant, and high-quality outputs.
+Common Prompt Engineering Techniques:-
+
+<b>Zero-Shot Prompting:</b> Asking the AI to perform a task without providing examples. Example: "Explain machine learning."<br>
+<b>Few-Shot Prompting:</b> Providing a few examples before asking the AI to perform the task. Helps improve accuracy and consistency.<br>
+<b>Role Prompting:</b> Assigning a specific role to the AI. Example: "Act as a senior software engineer."<br>
+<b>Chain-of-Thought Prompting:</b> Asking the AI to reason through a problem step by step. Improves performance on complex tasks.<br>
+<b>Contextual Prompting:</b> Providing background information to help the AI understand the task better.<br>
+<b>Instruction-Based Prompting:</b> Giving clear and detailed instructions regarding the desired output format and requirements.<br>
+<b>Structured Output Prompting:</b> Specifying a particular output format such as JSON, tables, bullet points, or reports.<br>
+
+<b>Summary:</b> Prompt Engineering is a fundamental skill in AI Engineering and Generative AI that focuses on creating effective prompts to improve the quality, accuracy, and reliability of AI-generated responses.
+
+<img src="">
+<b>PartyRock</b> is a free, hands-on, no-code playground by Amazon Web Services (AWS) that allows users to build generative AI applications using natural language prompts. Powered by Amazon Bedrock, it lets anyone experiment with AI, learn prompt engineering, and share interactive apps without needing an AWS account or coding skills.
+
+<b>This is the live shared link of the project build through prompt in PartyRock : <a href="https://partyrock.aws/u/Joshtheboss/Fp52U1JGL/Corporate-Language-Mastery-Program">Corporate Language Mastery Program</a></b>
+
+  
+</details>
+
+
+
+---
+
+>[!IMPORTANT]
 >## AI Bots & Voice Assistants projects
 >**AI Bots & Voice Assistants Hub** — a centralized collection of intelligent chatbots and voice-based assistants powered by APIs and trained models. This repository is dedicated to showcasing real-world applications of Artificial Intelligence, combining the power of LLMs, speech processing, and API integration.
 
@@ -238,7 +274,10 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 
 </details>
 
->[!IMPORTANT]
+---
+
+
+
 >## AI Engineering for Developers
 >**AI Engineering for Developers** involves the development, integration, and deployment of artificial intelligence solutions into real-world applications. It combines software engineering principles with machine learning, >data processing, and model optimization to create scalable and efficient AI systems.
 
