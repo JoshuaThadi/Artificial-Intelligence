@@ -154,9 +154,9 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 **Master Artificial Intelligence from foundations to advanced deployment with this comprehensive 10-part curriculum. You will progress from mastering Prompt Engineering and Generative AI to building autonomous Agentic AI and advanced Large Language Models. The course delivers deep technical mastery in reinforcement learning, covering everything from fundamental Q-Learning to complex algorithms like Deep Convolutional Q-Learning, A3C, PPO, and SAC.**
 
 <details>
-  <summary><a href="https://www.ibm.com/think/topics/prompt-engineering">Prompt Engineering</a></summary>
+  <summary><a href="#">Prompt Engineering</a></summary>
 
-### 1] Prompt Engineering
+<h3><a href='https://www.ibm.com/think/topics/prompt-engineering'> 1] Prompt Engineering </a></h3>
 
 Prompt Engineering is the process of designing and optimizing prompts (instructions) to guide AI models toward producing accurate, relevant, and high-quality outputs.
 Common Prompt Engineering Techniques:-
@@ -170,6 +170,21 @@ Common Prompt Engineering Techniques:-
 <b>Structured Output Prompting:</b> Specifying a particular output format such as JSON, tables, bullet points, or reports.<br>
 
 <b>Summary:</b> Prompt Engineering is a fundamental skill in AI Engineering and Generative AI that focuses on creating effective prompts to improve the quality, accuracy, and reliability of AI-generated responses.
+
+<h3><a href='https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html'> 2] Inference Parameters </a></h3>
+Inference Parameters are the settings used to control how an AI model generates responses. They influence the creativity, randomness, length, diversity, and quality of the output.
+Common Inference Parameters:-
+
+<b>Temperature:</b> Controls the randomness of the output. Lower values produce more deterministic and focused responses, while higher values generate more creative and diverse responses.<br>
+<b>Top-p (Nucleus Sampling):</b> Limits the model's token selection to the smallest set of tokens whose cumulative probability exceeds a specified threshold. Helps balance creativity and coherence.<br>
+<b>Top-k:</b> Restricts the model to selecting the next token from the top k most probable tokens. Lower values make outputs more predictable, while higher values increase diversity.<br>
+<b>Max Tokens:</b> Specifies the maximum number of tokens the model can generate in a response. Controls the response length.<br>
+<b>Frequency Penalty:</b> Reduces the likelihood of repeating the same words or phrases by penalizing tokens that have already appeared frequently in the response.<br>
+<b>Presence Penalty:</b> Encourages the model to introduce new topics or concepts by penalizing tokens that have already appeared in the response.<br>
+<b>Stop Sequences:</b> Defines specific words, phrases, or characters that instruct the model to stop generating further output when encountered.<br>
+<b>Seed:</b> Sets a fixed random seed to make outputs more reproducible and consistent across multiple runs.<br>
+
+<b>Summary:</b> Inference Parameters are configuration settings that control the behavior of AI models during response generation, allowing users to adjust creativity, consistency, diversity, and output length according to their requirements.
 
 <img src="https://github.com/JoshuaThadi/Artificial-Intelligence/blob/main/assets/partyrock.png">
 <b>PartyRock</b> is a free, hands-on, no-code playground by Amazon Web Services (AWS) that allows users to build generative AI applications using natural language prompts. Powered by Amazon Bedrock, it lets anyone experiment with AI, learn prompt engineering, and share interactive apps without needing an AWS account or coding skills.
