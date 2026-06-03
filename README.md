@@ -172,6 +172,7 @@ Common Prompt Engineering Techniques:-
 <b>Summary:</b> Prompt Engineering is a fundamental skill in AI Engineering and Generative AI that focuses on creating effective prompts to improve the quality, accuracy, and reliability of AI-generated responses.
 
 <h3><a href='https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html'> 2] Inference Parameters </a></h3>
+
 Inference Parameters are the settings used to control how an AI model generates responses. They influence the creativity, randomness, length, diversity, and quality of the output.
 Common Inference Parameters:-
 
