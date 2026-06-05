@@ -1,0 +1,26 @@
+Movie Script Generator
+
+
+
+Prompt 1 (without template):
+
+Instruction
+Generate a creative and engaging movie script for an animated comedy. The script should include humor, memorable dialogue, and a storyline that reflects the personality and wisdom of a wolf who resides in the clouds. Use playful language and scenarios to bring out the comedy.
+
+Context
+The script centers on an animated wolf, a wise yet humorous character who lives among the clouds. The wolf interacts with various other quirky animals and natural elements in the sky, imparting wisdom in funny ways. The goal is to create an entertaining, family-friendly comedy that emphasizes the wolf's humorous wisdom, the fun nature of life in the clouds, and light-hearted life lessons.
+
+Input Data
+Main Character: A wise, humorous wolf who resides in the clouds. Known for witty remarks and a slightly mischievous sense of humor.
+Supporting Characters: A chatty cloud, a playful eagle, and a sunbeam with a sunny disposition.
+Genre: Comedy
+Setting: A world high in the sky, with characters interacting among the clouds, stars, and other elements of the sky.
+
+Output Indicator
+The output should be a short movie script in a comedic tone. It should contain dialogue and brief action descriptions, and it should reflect the characters' personalities, especially the wolf's humorous wisdom.
+
+
+
+Prompt 2 (with template):
+
+You are an expert screenwriter. You are writing a script of a {{Genre}} for a movie with the following outline: {{Outline}}. The content should include at least 50 pages. Include an appropriate movie title.
