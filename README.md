@@ -191,7 +191,7 @@ Common Inference Parameters:-
 <b>PartyRock</b> is a free, hands-on, no-code playground by Amazon Web Services (AWS) that allows users to build generative AI applications using natural language prompts. Powered by Amazon Bedrock, it lets anyone experiment with AI, learn prompt engineering, and share interactive apps without needing an AWS account or coding skills.
 
 <b>This is the live shared link of the project build through prompt in PartyRock : <a href="https://partyrock.aws/u/Joshtheboss/Fp52U1JGL/Corporate-Language-Mastery-Program">Corporate Language Mastery Program</a></b>
-
+<b>Resources for Prompt Engineering : <a href="https://youtu.be/2BpCk4d2Cc0">Youtube</a></b>
   
 </details>
 
