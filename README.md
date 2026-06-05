@@ -224,7 +224,7 @@ Traditional AI vs. Generative AI:-
 
 <b>Summary:</b> Generative AI is an advanced field of Artificial Intelligence that creates new content by learning patterns from existing data. It powers applications such as chatbots, image generators, coding assistants, music generators, and content creation tools, making it one of the most transformative technologies in modern computing.
 
-<b>Resources for Generative artificial intelligence: <a href="https://www.skills.google/course_templates/536">Google Skills</a> | <a href="https://youtu.be/k7HaeJs-N-o">Youtube</a> | <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">attention is all you need.</a></b>
+<b>Resources for Generative artificial intelligence: <a href="https://github.com/microsoft/generative-ai-for-beginners">Microsoft Repository</a> | <a href="https://www.skills.google/course_templates/536">Google Skills</a> | <a href="https://youtu.be/k7HaeJs-N-o">Youtube</a> | <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">attention is all you need.</a></b>
 
   
 </details>
