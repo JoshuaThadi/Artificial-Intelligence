@@ -148,6 +148,7 @@ This repository features AI chatbots using models like Gemini and GPT, along wit
 
 </details>
 
+---
 
 
 ## Artificial Intelligence A-Z
