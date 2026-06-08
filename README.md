@@ -197,8 +197,8 @@ Common Inference Parameters:-
 </details>
 
 <details>
-  <summary><a href="#">Generative AI</a></summary>
-  <h3><a href='https://www.ibm.com/think/topics/generative-ai'> 1] Generative AI </a></h3>
+  <summary><a href="#">Generative Artificial Intelligence</a></summary>
+  <h3><a href='https://www.ibm.com/think/topics/generative-ai'> 2] Generative AI </a></h3>
 
 Generative Artificial Intelligence (Generative AI) is a branch of Artificial Intelligence that creates entirely new and original content by learning patterns from large datasets. Unlike traditional AI, which focuses on analyzing, classifying, or predicting data, Generative AI generates new content such as text, images, videos, code, audio, and synthetic data based on user prompts.
 
@@ -228,6 +228,51 @@ Traditional AI vs. Generative AI:-
 
   
 </details>
+
+
+<details>
+  <summary><a href="#">Agentic Artificial Intelligence (Agentic AI)</a></summary>
+  <h3><a href='https://www.ibm.com/think/topics/agentic-ai'> 3] Agentic AI </a></h3>
+
+Agentic Artificial Intelligence (Agentic AI) is a type of AI that can autonomously plan, reason, make decisions, and perform tasks to achieve specific goals with minimal human intervention. Unlike traditional AI systems that only respond to user inputs, Agentic AI can independently analyze situations, create action plans, utilize external tools, and adapt its behavior based on feedback.
+
+Key Characteristics of Agentic AI:-
+
+<b>Autonomous Decision-Making:</b> Makes decisions and takes actions without requiring constant human guidance.<br>
+<b>Goal-Oriented Behavior:</b> Focuses on achieving predefined objectives by planning and executing multiple steps.<br>
+<b>Reasoning and Planning:</b> Breaks complex problems into smaller tasks and determines the best sequence of actions.<br>
+<b>Tool Usage:</b> Interacts with external tools, APIs, databases, search engines, and software applications to complete tasks.<br>
+<b>Memory:</b> Stores previous interactions and contextual information to improve future decisions and maintain continuity.<br>
+<b>Adaptability:</b> Learns from outcomes and modifies its strategy to improve performance over time.<br>
+
+How Agentic AI Works:-
+
+<b>Goal Identification:</b> Receives a high-level objective from the user or system.<br>
+<b>Planning:</b> Creates a step-by-step strategy to accomplish the objective.<br>
+<b>Reasoning:</b> Evaluates available information and determines the best actions to take.<br>
+<b>Execution:</b> Performs tasks by interacting with external tools, APIs, or software systems.<br>
+<b>Feedback and Iteration:</b> Monitors results, corrects errors, and refines the plan until the goal is achieved.<br>
+
+Applications of Agentic AI:-
+
+<b>Software Development:</b> Automates coding, debugging, testing, and deployment workflows.<br>
+<b>Customer Support:</b> Resolves customer queries and executes support tasks autonomously.<br>
+<b>Business Automation:</b> Manages emails, schedules meetings, generates reports, and automates repetitive processes.<br>
+<b>Research Assistance:</b> Collects information, summarizes findings, and generates insights from multiple sources.<br>
+<b>Personal Productivity:</b> Acts as an intelligent assistant capable of managing daily tasks and decision-making.<br>
+
+Traditional AI vs. Agentic AI:-
+
+<b>Traditional AI:</b> Responds to specific inputs and performs predefined tasks without independent planning or decision-making.<br>
+<b>Agentic AI:</b> Autonomously plans, reasons, makes decisions, uses tools, and executes multi-step workflows to achieve goals.<br>
+
+<b>Summary:</b> Agentic AI represents the next evolution of Artificial Intelligence by combining reasoning, planning, memory, and autonomous execution. It enables AI systems to function as intelligent agents capable of solving complex problems and completing end-to-end tasks with minimal human intervention.
+
+<b>Resources for Agentic AI : <a href="https://www.youtube.com/watch?v=EsTrWCV0Ph4&pp=ygUWQWdlbnRpYyBBSSBmdWxsIGNvdXJzZdIHCQk4CwGHKiGM7w%3D%3D">Youtube</a> | <a href="https://docs.cognigy.com/ai/agents/overview">Cognigy</a></b>
+
+
+</details>
+
 
 
 
